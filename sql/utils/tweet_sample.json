@@ -1,0 +1,306 @@
+{
+  "created_at": "Mon Sep 14 22:42:56 +0000 2020",
+  "id": 1305638188745199618,
+  "id_str": "1305638188745199618",
+  "text": "RT @jesmarau: @navedelmisterio @morigerante @culhwch00 @ehcarnedebuurro No, si eres periodista, tu obligación es cumplir con ese embargo. N…",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1286396285281603593,
+    "id_str": "1286396285281603593",
+    "name": "Deniel welington",
+    "screen_name": "DenielWelington",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 0,
+    "friends_count": 4,
+    "listed_count": 0,
+    "favourites_count": 220,
+    "statuses_count": 441,
+    "created_at": "Thu Jul 23 20:22:45 +0000 2020",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Sep 14 21:26:35 +0000 2020",
+    "id": 1305618976328814593,
+    "id_str": "1305618976328814593",
+    "text": "@navedelmisterio @morigerante @culhwch00 @ehcarnedebuurro No, si eres periodista, tu obligación es cumplir con ese… https://t.co/jUDKP10Hyl",
+    "display_text_range": [
+      58,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1305577740050063361,
+    "in_reply_to_status_id_str": "1305577740050063361",
+    "in_reply_to_user_id": 48579013,
+    "in_reply_to_user_id_str": "48579013",
+    "in_reply_to_screen_name": "navedelmisterio",
+    "user": {
+      "id": 239343961,
+      "id_str": "239343961",
+      "name": "Jesús a secas",
+      "screen_name": "jesmarau",
+      "location": "Albacete, España",
+      "url": null,
+      "description": "Manguta profesional desde 1985.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 154,
+      "friends_count": 411,
+      "listed_count": 9,
+      "favourites_count": 4723,
+      "statuses_count": 5335,
+      "created_at": "Mon Jan 17 11:53:42 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1696830357/25636_1414144152516_1199926811_31208589_4860849_n_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1696830357/25636_1414144152516_1199926811_31208589_4860849_n_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/239343961/1419080089",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "@navedelmisterio @morigerante @culhwch00 @ehcarnedebuurro No, si eres periodista, tu obligación es cumplir con ese embargo. No se trata de un privilegio, sino de ética profesional. Y meter aquí el covid no deja de ser lamentable Iker. Es mejor recular y pedir disculpas a seguir justificando lo injustificable.",
+      "display_text_range": [
+        58,
+        310
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "navedelmisterio",
+            "name": "Iker Jiménez",
+            "id": 48579013,
+            "id_str": "48579013",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "morigerante",
+            "name": "Antonio Marcelo",
+            "id": 438001902,
+            "id_str": "438001902",
+            "indices": [
+              17,
+              29
+            ]
+          },
+          {
+            "screen_name": "culhwch00",
+            "name": "Culhwch",
+            "id": 248407238,
+            "id_str": "248407238",
+            "indices": [
+              30,
+              40
+            ]
+          },
+          {
+            "screen_name": "ehcarnedebuurro",
+            "name": "Escarnedeburro",
+            "id": 1088053882243170304,
+            "id_str": "1088053882243170304",
+            "indices": [
+              41,
+              57
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/jUDKP10Hyl",
+          "expanded_url": "https://twitter.com/i/web/status/1305618976328814593",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "navedelmisterio",
+          "name": "Iker Jiménez",
+          "id": 48579013,
+          "id_str": "48579013",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "morigerante",
+          "name": "Antonio Marcelo",
+          "id": 438001902,
+          "id_str": "438001902",
+          "indices": [
+            17,
+            29
+          ]
+        },
+        {
+          "screen_name": "culhwch00",
+          "name": "Culhwch",
+          "id": 248407238,
+          "id_str": "248407238",
+          "indices": [
+            30,
+            40
+          ]
+        },
+        {
+          "screen_name": "ehcarnedebuurro",
+          "name": "Escarnedeburro",
+          "id": 1088053882243170304,
+          "id_str": "1088053882243170304",
+          "indices": [
+            41,
+            57
+          ]
+        }
+      ],
+      "symbols": [] 
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "jesmarau",
+        "name": "Jesús a secas",
+        "id": 239343961,
+        "id_str": "239343961",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "navedelmisterio",
+        "name": "Iker Jiménez",
+        "id": 48579013,
+        "id_str": "48579013",
+        "indices": [
+          14,
+          30
+        ]
+      },
+      {
+        "screen_name": "morigerante",
+        "name": "Antonio Marcelo",
+        "id": 438001902,
+        "id_str": "438001902",
+        "indices": [
+          31,
+          43
+        ]
+      },
+      {
+        "screen_name": "culhwch00",
+        "name": "Culhwch",
+        "id": 248407238,
+        "id_str": "248407238",
+        "indices": [
+          44,
+          54
+        ]
+      },
+      {
+        "screen_name": "ehcarnedebuurro",
+        "name": "Escarnedeburro",
+        "id": 1088053882243170304,
+        "id_str": "1088053882243170304",
+        "indices": [
+          55,
+          71
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1600123376438"
+}
