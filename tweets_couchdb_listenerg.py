@@ -42,7 +42,7 @@ except:
 '''===============LOCATIONS 20 CITIES ECUADOR=============='''    
 #twitterStream.filter(locations=[-78.619545,-0.365889,-78.441315,-0.047208])#Quito 
 #twitterStream.filter(locations=[-79.95912,-2.287573,-79.856351,-2.053362])#Guayaquil
-twitterStream.filter(locations=[-79.5983,-3.1761,-78.8471,-2.5578]) #Cuenca
+#twitterStream.filter(locations=[-79.5983,-3.1761,-78.8471,-2.5578]) #Cuenca
 #twitterStream.filter(locations=[-79.5484,-0.6987,-78.7461,0.0191]) #Santo Domingo 
 #twitterStream.filter(locations=[-80.02869,-3.354746,-79.84235,-3.190935])#Machala
 #twitterStream.filter(locations=[-80.912795,-1.135691,-80.663985,-0.928689])#Manta
@@ -58,5 +58,5 @@ twitterStream.filter(locations=[-79.5983,-3.1761,-78.8471,-2.5578]) #Cuenca
 #twitterStream.filter(locations=[-78.667182,-1.008675,-78.40152,-0.867442]) #Latacunga
 #twitterStream.filter(locations=[-79.893517,-2.167096,-79.6477,-1.863685]) #Samborondon
 #twitterStream.filter(locations=[-80.245823,-3.502263,-80.117762,-3.416315]) #Huaquillas
-#twitterStream.filter(locations=[-78.5494,0.6053,-77.5255,1.1979]) #Tulcan
+twitterStream.filter(locations=[-78.5494,0.6053,-77.5255,1.1979]) #Tulcan
 #twitterStream.filter(locations=[-80.2864,-0.8627,-79.5972,0.0894]) #Chone
