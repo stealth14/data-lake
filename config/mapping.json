@@ -1,0 +1,27 @@
+{
+  "mappings": {
+  "properties": {
+    "doc":{
+      "properties": {
+        "created_at": {
+            "type": "date",
+            "format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis"
+          },
+          "geo": {
+            "type": "geo_point"
+          },
+          "coordinates": {
+            "type": "geo_point"
+            },
+          "place":{
+            "properties":{
+                "coordinates":{
+            "type": "geo_point"    
+            }
+        }
+        }
+      }
+    }
+  }
+  }
+}
