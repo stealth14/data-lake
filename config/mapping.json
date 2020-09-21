@@ -1,5 +1,7 @@
 {
   "mappings": {
+    "properties":{
+      "doc":{
         "properties": {
           "created_at": {
             "type": "date",
@@ -8,11 +10,18 @@
           "location": {
             "type": "geo_point"
           },
-           "geo": {
+          "geo": {
            "type": "geo_point"
           },
-           "coordinates": {
+          "coordinates": {
            "type": "geo_point"
+          },
+          "place": {
+           "properties": {
+            "coordinates":{
+              "type":"geo_point"
+            }
+           }
           },
           "message": {
             "type": "text",
@@ -21,6 +30,8 @@
                 "type": "keyword",
                 "ignore_above": 256
               }
+            }
+          }
         }
       }
     }
