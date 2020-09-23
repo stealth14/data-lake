@@ -1,0 +1,6961 @@
+[{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b4"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 162047262,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1283698",
+    " Deportivas Mutuas": 25,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1441042,
+  "P�quer Cash": "168951627",
+  "P�quer Torneo": "45284781",
+  "Black Jack": 31834559,
+  "Juegos Complementarios": 31836,
+  "Punto y Banca": 234997,
+  "Ruleta Convencional": 74439443,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 5233357,
+  "Total": "490782627"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b5"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 157694814,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1021289",
+    " Deportivas Mutuas": 13739,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 599
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 946386,
+  "P�quer Cash": "149377971",
+  "P�quer Torneo": "39699626",
+  "Black Jack": 28028922,
+  "Juegos Complementarios": 23377,
+  "Punto y Banca": 142746,
+  "Ruleta Convencional": 74558727,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 4522912,
+  "Total": "456031107"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b6"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 172671200,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1542232",
+    " Deportivas Mutuas": 62887,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 154
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 856381,
+  "P�quer Cash": "156030065",
+  "P�quer Torneo": "41243059",
+  "Black Jack": 32602485,
+  "Juegos Complementarios": 21714,
+  "Punto y Banca": 112883,
+  "Ruleta Convencional": 88638883,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 4582470,
+  "Total": "498364413"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b7"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 159740095,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1567041",
+    " Deportivas Mutuas": 57470,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 5970
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 922443,
+  "P�quer Cash": "146001504",
+  "P�quer Torneo": "40079724",
+  "Black Jack": 30258652,
+  "Juegos Complementarios": 14914,
+  "Punto y Banca": 81295,
+  "Ruleta Convencional": 79406499,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 4222029,
+  "Total": "462357635"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b8"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 154806640,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1864772",
+    " Deportivas Mutuas": 47501,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 388
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 775753,
+  "P�quer Cash": "142803930",
+  "P�quer Torneo": "41107194",
+  "Black Jack": 30230645,
+  "Juegos Complementarios": 19336,
+  "Punto y Banca": 83962,
+  "Ruleta Convencional": 82606925,
+  "Ruleta en Vivo": 77,
+  "M�quinas de Azar": "0",
+  "Bingo": 4821443,
+  "Total": "459168566"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3b9"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 152493062,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2173177",
+    " Deportivas Mutuas": 40474,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 454
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 600224,
+  "P�quer Cash": "132604377",
+  "P�quer Torneo": "36911221",
+  "Black Jack": 32714737,
+  "Juegos Complementarios": 6597,
+  "Punto y Banca": 143180,
+  "Ruleta Convencional": 67751377,
+  "Ruleta en Vivo": 70,
+  "M�quinas de Azar": "0",
+  "Bingo": 4725906,
+  "Total": "430164856"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ba"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 126943251,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2029753",
+    " Deportivas Mutuas": 22772,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 578695,
+  "P�quer Cash": "138928385",
+  "P�quer Torneo": "36012485",
+  "Black Jack": 34064385,
+  "Juegos Complementarios": 6638,
+  "Punto y Banca": 156137,
+  "Ruleta Convencional": 72901133,
+  "Ruleta en Vivo": 57384,
+  "M�quinas de Azar": "0",
+  "Bingo": 4703034,
+  "Total": "416404051"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3bb"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 164302106,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2104109",
+    " Deportivas Mutuas": 30244,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 537433,
+  "P�quer Cash": "136482444",
+  "P�quer Torneo": "36178884",
+  "Black Jack": 27280304,
+  "Juegos Complementarios": 16120,
+  "Punto y Banca": 73450,
+  "Ruleta Convencional": 66820228,
+  "Ruleta en Vivo": 465537,
+  "M�quinas de Azar": "0",
+  "Bingo": 4705381,
+  "Total": "438996239"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3bc"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 183000088,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1738763",
+    " Deportivas Mutuas": 35733,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 561300,
+  "P�quer Cash": "140924981",
+  "P�quer Torneo": "40621820",
+  "Black Jack": 26787614,
+  "Juegos Complementarios": 10513,
+  "Punto y Banca": 113874,
+  "Ruleta Convencional": 68697977,
+  "Ruleta en Vivo": 456975,
+  "M�quinas de Azar": "0",
+  "Bingo": 5187722,
+  "Total": "468137361"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3bd"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 196785593,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2250930",
+    " Deportivas Mutuas": 54780,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 15
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 658556,
+  "P�quer Cash": "146035913",
+  "P�quer Torneo": "40847086",
+  "Black Jack": 31061984,
+  "Juegos Complementarios": 17141,
+  "Punto y Banca": 146482,
+  "Ruleta Convencional": 76455457,
+  "Ruleta en Vivo": 937918,
+  "M�quinas de Azar": "0",
+  "Bingo": 6310061,
+  "Total": "501561917"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3be"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 177819239,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1800667",
+    " Deportivas Mutuas": 52868,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 621262,
+  "P�quer Cash": "142433300",
+  "P�quer Torneo": "42548045",
+  "Black Jack": 24396220,
+  "Juegos Complementarios": 17687,
+  "Punto y Banca": 119759,
+  "Ruleta Convencional": 75342043,
+  "Ruleta en Vivo": 995881,
+  "M�quinas de Azar": "0",
+  "Bingo": 5498814,
+  "Total": "471645784"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3bf"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 179906795,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1818361",
+    " Deportivas Mutuas": 43087,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 134
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1748547,
+  "P�quer Cash": "152491825",
+  "P�quer Torneo": "47188948",
+  "Black Jack": 25885380,
+  "Juegos Complementarios": 19102,
+  "Punto y Banca": 113965,
+  "Ruleta Convencional": 83270320,
+  "Ruleta en Vivo": 653782,
+  "M�quinas de Azar": "0",
+  "Bingo": 5992391,
+  "Total": "499132636"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c0"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 211500799,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1948905",
+    " Deportivas Mutuas": 37320,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 621
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 877267,
+  "P�quer Cash": "159040770",
+  "P�quer Torneo": "47792102",
+  "Black Jack": 29032039,
+  "Juegos Complementarios": 12127,
+  "Punto y Banca": 112665,
+  "Ruleta Convencional": 85284512,
+  "Ruleta en Vivo": 1189674,
+  "M�quinas de Azar": "0",
+  "Bingo": 5924912,
+  "Total": "542753712"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c1"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 197214054,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "1696579",
+    " Deportivas Mutuas": 39289,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 746
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 634518,
+  "P�quer Cash": "144276775",
+  "P�quer Torneo": "40456781",
+  "Black Jack": 26876683,
+  "Juegos Complementarios": 17859,
+  "Punto y Banca": 218549,
+  "Ruleta Convencional": 83835234,
+  "Ruleta en Vivo": 1045682,
+  "M�quinas de Azar": "0",
+  "Bingo": 5401780,
+  "Total": "501714529"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c2"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 227826050,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2266131",
+    " Deportivas Mutuas": 46569,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 782
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 628238,
+  "P�quer Cash": "145820919",
+  "P�quer Torneo": "44539680",
+  "Black Jack": 32321107,
+  "Juegos Complementarios": 7670,
+  "Punto y Banca": 105592,
+  "Ruleta Convencional": 75836572,
+  "Ruleta en Vivo": 1412424,
+  "M�quinas de Azar": "0",
+  "Bingo": 5896297,
+  "Total": "536708029"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c3"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 216217412,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2512661",
+    " Deportivas Mutuas": 18519,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 316299,
+  "P�quer Cash": "125500505",
+  "P�quer Torneo": "40440624",
+  "Black Jack": 30619947,
+  "Juegos Complementarios": 11721,
+  "Punto y Banca": 196967,
+  "Ruleta Convencional": 73617829,
+  "Ruleta en Vivo": 1208177,
+  "M�quinas de Azar": "0",
+  "Bingo": 5505494,
+  "Total": "496166154"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c4"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 222996687,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2854476",
+    " Deportivas Mutuas": 18773,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 803
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 455920,
+  "P�quer Cash": "138264667",
+  "P�quer Torneo": "41354581",
+  "Black Jack": 34894771,
+  "Juegos Complementarios": 12215,
+  "Punto y Banca": 168967,
+  "Ruleta Convencional": 97118223,
+  "Ruleta en Vivo": 1939486,
+  "M�quinas de Azar": "0",
+  "Bingo": 5536888,
+  "Total": "545616456"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c5"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 223314871,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3682915",
+    " Deportivas Mutuas": 27250,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 243259,
+  "P�quer Cash": "127804580",
+  "P�quer Torneo": "39087299",
+  "Black Jack": 28956348,
+  "Juegos Complementarios": 9846,
+  "Punto y Banca": 336910,
+  "Ruleta Convencional": 92874540,
+  "Ruleta en Vivo": 1743260,
+  "M�quinas de Azar": "0",
+  "Bingo": 5246549,
+  "Total": "523327627"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c6"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 206144156,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3773802",
+    " Deportivas Mutuas": 6152,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1411
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 248391,
+  "P�quer Cash": "127612174",
+  "P�quer Torneo": "50132415",
+  "Black Jack": 30935416,
+  "Juegos Complementarios": 11285,
+  "Punto y Banca": 453822,
+  "Ruleta Convencional": 72445463,
+  "Ruleta en Vivo": 2619280,
+  "M�quinas de Azar": "0",
+  "Bingo": 5592040,
+  "Total": "499975808"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c7"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 227151481,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3290734",
+    " Deportivas Mutuas": 15653,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 14987
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 233863,
+  "P�quer Cash": "123064571",
+  "P�quer Torneo": "53985655",
+  "Black Jack": 27881177,
+  "Juegos Complementarios": 17739,
+  "Punto y Banca": 250828,
+  "Ruleta Convencional": 71219472,
+  "Ruleta en Vivo": 2072981,
+  "M�quinas de Azar": "0",
+  "Bingo": 5561690,
+  "Total": "514760830"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c8"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 265479403,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3024780",
+    " Deportivas Mutuas": 29047,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 7183
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 247535,
+  "P�quer Cash": "120879370",
+  "P�quer Torneo": "52722666",
+  "Black Jack": 27019433,
+  "Juegos Complementarios": 39690,
+  "Punto y Banca": 292153,
+  "Ruleta Convencional": 71634392,
+  "Ruleta en Vivo": 1336614,
+  "M�quinas de Azar": "0",
+  "Bingo": 5281359,
+  "Total": "547993626"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3c9"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 273595488,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3165701",
+    " Deportivas Mutuas": 27974,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 15547
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 377379,
+  "P�quer Cash": "123661994",
+  "P�quer Torneo": "50734902",
+  "Black Jack": 46398834,
+  "Juegos Complementarios": 16322,
+  "Punto y Banca": 219076,
+  "Ruleta Convencional": 106298540,
+  "Ruleta en Vivo": 1520880,
+  "M�quinas de Azar": "0",
+  "Bingo": 5619270,
+  "Total": "611651907"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ca"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 300917018,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3402412",
+    " Deportivas Mutuas": 16576,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 16290
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 540741,
+  "P�quer Cash": "112878743",
+  "P�quer Torneo": "50732690",
+  "Black Jack": 43909157,
+  "Juegos Complementarios": 10862,
+  "Punto y Banca": 301258,
+  "Ruleta Convencional": 104225469,
+  "Ruleta en Vivo": 2516534,
+  "M�quinas de Azar": "0",
+  "Bingo": 5676190,
+  "Total": "625143940"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3cb"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 286655803,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3670431",
+    " Deportivas Mutuas": 11429,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 23163
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1251787,
+  "P�quer Cash": "121930599",
+  "P�quer Torneo": "48962820",
+  "Black Jack": 40805174,
+  "Juegos Complementarios": 7703,
+  "Punto y Banca": 202742,
+  "Ruleta Convencional": 96672332,
+  "Ruleta en Vivo": 3037322,
+  "M�quinas de Azar": "0",
+  "Bingo": 6257477,
+  "Total": "609488782"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3cc"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 336598793,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "3865663",
+    " Deportivas Mutuas": 16902,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 37618
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 407568,
+  "P�quer Cash": "125971550",
+  "P�quer Torneo": "58263652",
+  "Black Jack": 34944014,
+  "Juegos Complementarios": 14020,
+  "Punto y Banca": 373954,
+  "Ruleta Convencional": 70096020,
+  "Ruleta en Vivo": 30946669,
+  "M�quinas de Azar": "0",
+  "Bingo": 5959527,
+  "Total": "667495950"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3cd"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 314686018,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "2981241",
+    " Deportivas Mutuas": 18294,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 164188
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 382957,
+  "P�quer Cash": "109484661",
+  "P�quer Torneo": "46229314",
+  "Black Jack": 43714849,
+  "Juegos Complementarios": 9596,
+  "Punto y Banca": 468493,
+  "Ruleta Convencional": 80102939,
+  "Ruleta en Vivo": 33788841,
+  "M�quinas de Azar": "0",
+  "Bingo": 5395894,
+  "Total": "637427284"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ce"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 335536304,
+        " en Directo": "0"
+      }
+    },
+    " H�picas de Contrapartida": "5872859",
+    " Deportivas Mutuas": 17297,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 509620
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 423760,
+  "P�quer Cash": "113648387",
+  "P�quer Torneo": "48730009",
+  "Black Jack": 58560566,
+  "Juegos Complementarios": 11017,
+  "Punto y Banca": 260919,
+  "Ruleta Convencional": 79667389,
+  "Ruleta en Vivo": 40646600,
+  "M�quinas de Azar": "0",
+  "Bingo": 5749446,
+  "Total": "689634174"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3cf"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 96007807,
+        " en Directo": "253721748"
+      }
+    },
+    " H�picas de Contrapartida": "3628487",
+    " Deportivas Mutuas": 15728,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 313369
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 486066,
+  "P�quer Cash": "108011763",
+  "P�quer Torneo": "43646780",
+  "Black Jack": 60028413,
+  "Juegos Complementarios": 6726,
+  "Punto y Banca": 221467,
+  "Ruleta Convencional": 86910428,
+  "Ruleta en Vivo": 42122939,
+  "M�quinas de Azar": "0",
+  "Bingo": 5629164,
+  "Total": "700750887"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d0"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 98679678,
+        " en Directo": "262487921"
+      }
+    },
+    " H�picas de Contrapartida": "3955471",
+    " Deportivas Mutuas": 10267,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 378911
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 408080,
+  "P�quer Cash": "95581714",
+  "P�quer Torneo": "40639359",
+  "Black Jack": 53948071,
+  "Juegos Complementarios": 4078,
+  "Punto y Banca": 196830,
+  "Ruleta Convencional": 91079082,
+  "Ruleta en Vivo": 43079713,
+  "M�quinas de Azar": "783",
+  "Bingo": 5880552,
+  "Total": "696330509"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d1"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 77325071,
+        " en Directo": "221822555"
+      }
+    },
+    " H�picas de Contrapartida": "6002578",
+    " Deportivas Mutuas": 2497,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 303244
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 316275,
+  "P�quer Cash": "85669480",
+  "P�quer Torneo": "44930484",
+  "Black Jack": 53293443,
+  "Juegos Complementarios": 9961,
+  "Punto y Banca": 214789,
+  "Ruleta Convencional": 84285845,
+  "Ruleta en Vivo": 40565498,
+  "M�quinas de Azar": "39635252",
+  "Bingo": 5689678,
+  "Total": "660066648"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d2"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 54854682,
+        " en Directo": "205776442"
+      }
+    },
+    " H�picas de Contrapartida": "5747092",
+    " Deportivas Mutuas": 932,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 266779
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 116140,
+  "P�quer Cash": "89543273",
+  "P�quer Torneo": "45500822",
+  "Black Jack": 49216948,
+  "Juegos Complementarios": 3256,
+  "Punto y Banca": 151710,
+  "Ruleta Convencional": 79127835,
+  "Ruleta en Vivo": 37305269,
+  "M�quinas de Azar": "46315094",
+  "Bingo": 5181265,
+  "Total": "619107537"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d3"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 75309898,
+        " en Directo": "233049405"
+      }
+    },
+    " H�picas de Contrapartida": "7186501",
+    " Deportivas Mutuas": 5344,
+    " Cruzadas": 119021
+  },
+  "Otras Ap": {
+    " de Contrapartida": 303151
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 239565,
+  "P�quer Cash": "95782507",
+  "P�quer Torneo": "45854082",
+  "Black Jack": 47214856,
+  "Juegos Complementarios": 3229,
+  "Punto y Banca": 93610,
+  "Ruleta Convencional": 87417072,
+  "Ruleta en Vivo": 39052854,
+  "M�quinas de Azar": "50950278",
+  "Bingo": 5277827,
+  "Total": "687859201"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d4"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 97813070,
+        " en Directo": "280380505"
+      }
+    },
+    " H�picas de Contrapartida": "7149446",
+    " Deportivas Mutuas": 13674,
+    " Cruzadas": 1561418
+  },
+  "Otras Ap": {
+    " de Contrapartida": 371355
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 284759,
+  "P�quer Cash": "93728164",
+  "P�quer Torneo": "45375921",
+  "Black Jack": 54982896,
+  "Juegos Complementarios": 7300,
+  "Punto y Banca": 164473,
+  "Ruleta Convencional": 84891127,
+  "Ruleta en Vivo": 44055685,
+  "M�quinas de Azar": "58675550",
+  "Bingo": 5183702,
+  "Total": "774639044"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d5"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 98272546,
+        " en Directo": "287837374"
+      }
+    },
+    " H�picas de Contrapartida": "6795412",
+    " Deportivas Mutuas": 14456,
+    " Cruzadas": 5537472
+  },
+  "Otras Ap": {
+    " de Contrapartida": 906549
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 518356,
+  "P�quer Cash": "98927402",
+  "P�quer Torneo": "49054566",
+  "Black Jack": 51972507,
+  "Juegos Complementarios": 19463,
+  "Punto y Banca": 68869,
+  "Ruleta Convencional": 77034145,
+  "Ruleta en Vivo": 59855789,
+  "M�quinas de Azar": "68400455",
+  "Bingo": 5530791,
+  "Total": "810746150"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d6"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 110195590,
+        " en Directo": "288785614"
+      }
+    },
+    " H�picas de Contrapartida": "4904131",
+    " Deportivas Mutuas": 13704,
+    " Cruzadas": 6368110
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1683354
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 552540,
+  "P�quer Cash": "96402077",
+  "P�quer Torneo": "50487314",
+  "Black Jack": 50359479,
+  "Juegos Complementarios": 17133,
+  "Punto y Banca": 82286,
+  "Ruleta Convencional": 80483449,
+  "Ruleta en Vivo": 56984350,
+  "M�quinas de Azar": "65461907",
+  "Bingo": 5062778,
+  "Total": "817843815"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d7"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 107483976,
+        " en Directo": "253876919"
+      }
+    },
+    " H�picas de Contrapartida": "4975053",
+    " Deportivas Mutuas": 14192,
+    " Cruzadas": 5037654
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1827888
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1496633,
+  "P�quer Cash": "106851994",
+  "P�quer Torneo": "44853105",
+  "Black Jack": 52270327,
+  "Juegos Complementarios": 11266,
+  "Punto y Banca": 256175,
+  "Ruleta Convencional": 81250968,
+  "Ruleta en Vivo": 62541571,
+  "M�quinas de Azar": "71998440",
+  "Bingo": 5533536,
+  "Total": "800279696"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d8"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 117525529,
+        " en Directo": "310052308"
+      }
+    },
+    " H�picas de Contrapartida": "5010032",
+    " Deportivas Mutuas": 10582,
+    " Cruzadas": 6806164
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2186884
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 588282,
+  "P�quer Cash": "102810556",
+  "P�quer Torneo": "42726277",
+  "Black Jack": 54555633,
+  "Juegos Complementarios": 24506,
+  "Punto y Banca": 139923,
+  "Ruleta Convencional": 82289931,
+  "Ruleta en Vivo": 70241336,
+  "M�quinas de Azar": "76799194",
+  "Bingo": 6295561,
+  "Total": "878062699"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3d9"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 124052215,
+        " en Directo": "292307740"
+      }
+    },
+    " H�picas de Contrapartida": "4868792",
+    " Deportivas Mutuas": 8711,
+    " Cruzadas": 6586218
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2027055
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 770590,
+  "P�quer Cash": "89975100",
+  "P�quer Torneo": "42450527",
+  "Black Jack": 56782462,
+  "Juegos Complementarios": 10156,
+  "Punto y Banca": 57967,
+  "Ruleta Convencional": 76491552,
+  "Ruleta en Vivo": 77113751,
+  "M�quinas de Azar": "80070939",
+  "Bingo": 6305590,
+  "Total": "859879365"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3da"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 130880952,
+        " en Directo": "312599669"
+      }
+    },
+    " H�picas de Contrapartida": "5984259",
+    " Deportivas Mutuas": 9252,
+    " Cruzadas": 6730298
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3307289
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 516086,
+  "P�quer Cash": "89587090",
+  "P�quer Torneo": "43418247",
+  "Black Jack": 62758465,
+  "Juegos Complementarios": 6342,
+  "Punto y Banca": 56403,
+  "Ruleta Convencional": 83986292,
+  "Ruleta en Vivo": 86831775,
+  "M�quinas de Azar": "90826005",
+  "Bingo": 6260152,
+  "Total": "923758578"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3db"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 139307640,
+        " en Directo": "314584410"
+      }
+    },
+    " H�picas de Contrapartida": "6329544",
+    " Deportivas Mutuas": 8031,
+    " Cruzadas": 8069665
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2554821
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 650197,
+  "P�quer Cash": "85504828",
+  "P�quer Torneo": "42859579",
+  "Black Jack": 60728264,
+  "Juegos Complementarios": 13492,
+  "Punto y Banca": 48883,
+  "Ruleta Convencional": 89204229,
+  "Ruleta en Vivo": 87881736,
+  "M�quinas de Azar": "93808228",
+  "Bingo": 5833707,
+  "Total": "937387255"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3dc"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 127043093,
+        " en Directo": "298023479"
+      }
+    },
+    " H�picas de Contrapartida": "6777320",
+    " Deportivas Mutuas": 7293,
+    " Cruzadas": 6967671
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4366975
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 392011,
+  "P�quer Cash": "87670305",
+  "P�quer Torneo": "43365376",
+  "Black Jack": 62955217,
+  "Juegos Complementarios": 4531,
+  "Punto y Banca": 158320,
+  "Ruleta Convencional": 88469920,
+  "Ruleta en Vivo": 79120087,
+  "M�quinas de Azar": "100685912",
+  "Bingo": 5764430,
+  "Total": "911771940"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3dd"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 123570662,
+        " en Directo": "293438451"
+      }
+    },
+    " H�picas de Contrapartida": "7028154",
+    " Deportivas Mutuas": 5671,
+    " Cruzadas": 6654926
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3401222
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 630024,
+  "P�quer Cash": "78370262",
+  "P�quer Torneo": "38621512",
+  "Black Jack": 62325867,
+  "Juegos Complementarios": 7200,
+  "Punto y Banca": 78800,
+  "Ruleta Convencional": 81244638,
+  "Ruleta en Vivo": 75719985,
+  "M�quinas de Azar": "103670790",
+  "Bingo": 5450278,
+  "Total": "880218443"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3de"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 77785683,
+        " en Directo": "256829504"
+      }
+    },
+    " H�picas de Contrapartida": "6809516",
+    " Deportivas Mutuas": 2971,
+    " Cruzadas": 5477642
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2836508
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 742264,
+  "P�quer Cash": "81179202",
+  "P�quer Torneo": "40747735",
+  "Black Jack": 60780392,
+  "Juegos Complementarios": 3035,
+  "Punto y Banca": 62710,
+  "Ruleta Convencional": 86207313,
+  "Ruleta en Vivo": 78983828,
+  "M�quinas de Azar": "114252748",
+  "Bingo": 5394094,
+  "Total": "818095145"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3df"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 89505973,
+        " en Directo": "268216250"
+      }
+    },
+    " H�picas de Contrapartida": "6906870",
+    " Deportivas Mutuas": 6208,
+    " Cruzadas": 7905558
+  },
+  "Otras Ap": {
+    " de Contrapartida": 5340912
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 705493,
+  "P�quer Cash": "82718927",
+  "P�quer Torneo": "41665322",
+  "Black Jack": 59729309,
+  "Juegos Complementarios": 2621,
+  "Punto y Banca": 213410,
+  "Ruleta Convencional": 81866753,
+  "Ruleta en Vivo": 67617319,
+  "M�quinas de Azar": "116664085",
+  "Bingo": 5438691,
+  "Total": "834503699"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e0"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 125529943,
+        " en Directo": "284225785"
+      }
+    },
+    " H�picas de Contrapartida": "5290828",
+    " Deportivas Mutuas": 11365,
+    " Cruzadas": 7436659
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2646941
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 531269,
+  "P�quer Cash": "87949184",
+  "P�quer Torneo": "42484567",
+  "Black Jack": 70674112,
+  "Juegos Complementarios": 4022,
+  "Punto y Banca": 42741,
+  "Ruleta Convencional": 89351855,
+  "Ruleta en Vivo": 82683114,
+  "M�quinas de Azar": "121790977",
+  "Bingo": 5678500,
+  "Total": "926331863"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e1"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 127046979,
+        " en Directo": "297800493"
+      }
+    },
+    " H�picas de Contrapartida": "7259067",
+    " Deportivas Mutuas": 9147,
+    " Cruzadas": 8568266
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3150996
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 669049,
+  "P�quer Cash": "93716720",
+  "P�quer Torneo": "44097532",
+  "Black Jack": 68985736,
+  "Juegos Complementarios": 4324,
+  "Punto y Banca": 41378,
+  "Ruleta Convencional": 82146337,
+  "Ruleta en Vivo": 86364601,
+  "M�quinas de Azar": "136044879",
+  "Bingo": 6007620,
+  "Total": "961913126"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e2"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 122138244,
+        " en Directo": "286505681"
+      }
+    },
+    " H�picas de Contrapartida": "6987238",
+    " Deportivas Mutuas": 4464,
+    " Cruzadas": 8424531
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3080886
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 583581,
+  "P�quer Cash": "88331655",
+  "P�quer Torneo": "46398292",
+  "Black Jack": 69863893,
+  "Juegos Complementarios": 1286,
+  "Punto y Banca": 51392,
+  "Ruleta Convencional": 85748140,
+  "Ruleta en Vivo": 87833344,
+  "M�quinas de Azar": "134925329",
+  "Bingo": 5987506,
+  "Total": "946865462"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e3"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 120134653,
+        " en Directo": "267652832"
+      }
+    },
+    " H�picas de Contrapartida": "7691639",
+    " Deportivas Mutuas": 5267,
+    " Cruzadas": 6999407
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2960410
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1567947,
+  "P�quer Cash": "93010087",
+  "P�quer Torneo": "50040808",
+  "Black Jack": 75808950,
+  "Juegos Complementarios": 1712,
+  "Punto y Banca": 43997,
+  "Ruleta Convencional": 92866601,
+  "Ruleta en Vivo": 116945024,
+  "M�quinas de Azar": "161813388",
+  "Bingo": 6832332,
+  "Total": "1004375055"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e4"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 131262987,
+        " en Directo": "289946518"
+      }
+    },
+    " H�picas de Contrapartida": "7144235",
+    " Deportivas Mutuas": 4798,
+    " Cruzadas": 7233294
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3728138
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 370390,
+  "P�quer Cash": "96946223",
+  "P�quer Torneo": "49633958",
+  "Black Jack": 75813478,
+  "Juegos Complementarios": 3240,
+  "Punto y Banca": 38385,
+  "Ruleta Convencional": 89613152,
+  "Ruleta en Vivo": 127539879,
+  "M�quinas de Azar": "159243742",
+  "Bingo": 6779270,
+  "Total": "1045301687"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e5"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 125229937,
+        " en Directo": "284256465"
+      }
+    },
+    " H�picas de Contrapartida": "6334855",
+    " Deportivas Mutuas": 5715,
+    " Cruzadas": 6889340
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3422007
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 442646,
+  "P�quer Cash": "78792480",
+  "P�quer Torneo": "46372490",
+  "Black Jack": 67443599,
+  "Juegos Complementarios": 1011,
+  "Punto y Banca": 37628,
+  "Ruleta Convencional": 90304289,
+  "Ruleta en Vivo": 149098641,
+  "M�quinas de Azar": "147761911",
+  "Bingo": 6205517,
+  "Total": "1012598529"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e6"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 146513657,
+        " en Directo": "343439052"
+      }
+    },
+    " H�picas de Contrapartida": "7657041",
+    " Deportivas Mutuas": 4135,
+    " Cruzadas": 7310150
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4169434
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 428585,
+  "P�quer Cash": "85340133",
+  "P�quer Torneo": "47761831",
+  "Black Jack": 76026788,
+  "Juegos Complementarios": 3519,
+  "Punto y Banca": 22229,
+  "Ruleta Convencional": 106335737,
+  "Ruleta en Vivo": 133080197,
+  "M�quinas de Azar": "175248763",
+  "Bingo": 7398623,
+  "Total": "1140739874"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e7"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 158231212,
+        " en Directo": "336615801"
+      }
+    },
+    " H�picas de Contrapartida": "7174307",
+    " Deportivas Mutuas": 4810,
+    " Cruzadas": 7715143
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3147021
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 361621,
+  "P�quer Cash": "79698264",
+  "P�quer Torneo": "50780399",
+  "Black Jack": 73370380,
+  "Juegos Complementarios": 149,
+  "Punto y Banca": 67435,
+  "Ruleta Convencional": 102984827,
+  "Ruleta en Vivo": 122142396,
+  "M�quinas de Azar": "185111541",
+  "Bingo": 7569614,
+  "Total": "1134974921"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e8"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 137936210,
+        " en Directo": "322463820"
+      }
+    },
+    " H�picas de Contrapartida": "9038173",
+    " Deportivas Mutuas": 3463,
+    " Cruzadas": 7615688
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3397529
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 348651,
+  "P�quer Cash": "81020493",
+  "P�quer Torneo": "47666634",
+  "Black Jack": 67979447,
+  "Juegos Complementarios": 275,
+  "Punto y Banca": 18982,
+  "Ruleta Convencional": 95963913,
+  "Ruleta en Vivo": 141917172,
+  "M�quinas de Azar": "186840834",
+  "Bingo": 7483143,
+  "Total": "1109694426"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3e9"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 106672524,
+        " en Directo": "289033494"
+      }
+    },
+    " H�picas de Contrapartida": "9237876",
+    " Deportivas Mutuas": 2747,
+    " Cruzadas": 9011629
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3622429
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 605493,
+  "P�quer Cash": "77107802",
+  "P�quer Torneo": "46977381",
+  "Black Jack": 63574986,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 40813,
+  "Ruleta Convencional": 91121683,
+  "Ruleta en Vivo": 136105836,
+  "M�quinas de Azar": "190613667",
+  "Bingo": 7174749,
+  "Total": "1030903109"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ea"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 88425782,
+        " en Directo": "272067766"
+      }
+    },
+    " H�picas de Contrapartida": "8423927",
+    " Deportivas Mutuas": 2684,
+    " Cruzadas": 7061818
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4315589
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1232877,
+  "P�quer Cash": "76900642",
+  "P�quer Torneo": "48204683",
+  "Black Jack": 64744684,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 65594,
+  "Ruleta Convencional": 92006777,
+  "Ruleta en Vivo": 131257408,
+  "M�quinas de Azar": "201181900",
+  "Bingo": 7285922,
+  "Total": "1003178051"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3eb"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 117302060,
+        " en Directo": "302562199"
+      }
+    },
+    " H�picas de Contrapartida": "8200473",
+    " Deportivas Mutuas": 2202,
+    " Cruzadas": 8258741
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3416889
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 646990,
+  "P�quer Cash": "76856535",
+  "P�quer Torneo": "46685687",
+  "Black Jack": 80410294,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 51334,
+  "Ruleta Convencional": 100432555,
+  "Ruleta en Vivo": 145895769,
+  "M�quinas de Azar": "197942911",
+  "Bingo": 7352972,
+  "Total": "1096017609"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ec"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 157308096,
+        " en Directo": "328674235"
+      }
+    },
+    " H�picas de Contrapartida": "7147939",
+    " Deportivas Mutuas": 4150,
+    " Cruzadas": 4678125
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3203340
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 737260,
+  "P�quer Cash": "84574723",
+  "P�quer Torneo": "47318087",
+  "Black Jack": 80088982,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 50451,
+  "Ruleta Convencional": 101770535,
+  "Ruleta en Vivo": 146556891,
+  "M�quinas de Azar": "202856501",
+  "Bingo": 7329014,
+  "Total": "1172298329"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ed"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 143257547,
+        " en Directo": "323391079"
+      }
+    },
+    " H�picas de Contrapartida": "7528973",
+    " Deportivas Mutuas": 2430,
+    " Cruzadas": 5283944
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3725441
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 334769,
+  "P�quer Cash": "88309320",
+  "P�quer Torneo": "47316342",
+  "Black Jack": 90062859,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 43832,
+  "Ruleta Convencional": 103871295,
+  "Ruleta en Vivo": 153570380,
+  "M�quinas de Azar": "222154998",
+  "Bingo": 7928581,
+  "Total": "1196781791"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ee"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 131744657,
+        " en Directo": "290779955"
+      }
+    },
+    " H�picas de Contrapartida": "6099259",
+    " Deportivas Mutuas": 2691,
+    " Cruzadas": 4113698
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3183561
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 466244,
+  "P�quer Cash": "89533345",
+  "P�quer Torneo": "47581263",
+  "Black Jack": 77747142,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 37376,
+  "Ruleta Convencional": 100260206,
+  "Ruleta en Vivo": 159873885,
+  "M�quinas de Azar": "217912354",
+  "Bingo": 8227332,
+  "Total": "1137562969"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ef"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 135887983,
+        " en Directo": "275018933"
+      }
+    },
+    " H�picas de Contrapartida": "6021438",
+    " Deportivas Mutuas": 3999,
+    " Cruzadas": 3773052
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3072376
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1323057,
+  "P�quer Cash": "90125830",
+  "P�quer Torneo": "48757403",
+  "Black Jack": 90297880,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 96207,
+  "Ruleta Convencional": 108914687,
+  "Ruleta en Vivo": 186045763,
+  "M�quinas de Azar": "260098655",
+  "Bingo": 8964997,
+  "Total": "1218402258"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f0"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 142715985,
+        " en Directo": "327378227"
+      }
+    },
+    " H�picas de Contrapartida": "6139517",
+    " Deportivas Mutuas": 4169,
+    " Cruzadas": 4262863
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3810632
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 186680,
+  "P�quer Cash": "103520881",
+  "P�quer Torneo": "56860202",
+  "Black Jack": 87079986,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 24668,
+  "Ruleta Convencional": 115327671,
+  "Ruleta en Vivo": 189191719,
+  "M�quinas de Azar": "252885288",
+  "Bingo": 9433189,
+  "Total": "1298821675"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f1"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 150393818,
+        " en Directo": "342399566"
+      }
+    },
+    " H�picas de Contrapartida": "5870623",
+    " Deportivas Mutuas": 5203,
+    " Cruzadas": 5607612
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3943528
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 103144,
+  "P�quer Cash": "101338994",
+  "P�quer Torneo": "70178762",
+  "Black Jack": 82572331,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 19670,
+  "Ruleta Convencional": 108862383,
+  "Ruleta en Vivo": 178060129,
+  "M�quinas de Azar": "234632223",
+  "Bingo": 7847852,
+  "Total": "1291835839"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f2"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 193473793,
+        " en Directo": "411106465"
+      }
+    },
+    " H�picas de Contrapartida": "6831150",
+    " Deportivas Mutuas": 2935,
+    " Cruzadas": 5183542
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3942033
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 83693,
+  "P�quer Cash": "105522516",
+  "P�quer Torneo": "74840720",
+  "Black Jack": 106100785,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 29591,
+  "Ruleta Convencional": 126378263,
+  "Ruleta en Vivo": 187652442,
+  "M�quinas de Azar": "276161449",
+  "Bingo": 9249283,
+  "Total": "1506558659"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f3"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 188766223,
+        " en Directo": "384530980"
+      }
+    },
+    " H�picas de Contrapartida": "6613578",
+    " Deportivas Mutuas": 2680,
+    " Cruzadas": 5194794
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3624718
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 96400,
+  "P�quer Cash": "90581579",
+  "P�quer Torneo": "67411574",
+  "Black Jack": 95312132,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 66056,
+  "Ruleta Convencional": 119042810,
+  "Ruleta en Vivo": 157477615,
+  "M�quinas de Azar": "251275710",
+  "Bingo": 8451698,
+  "Total": "1378448547"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f4"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 172392042,
+        " en Directo": "376284429"
+      }
+    },
+    " H�picas de Contrapartida": "8310972",
+    " Deportivas Mutuas": 1825,
+    " Cruzadas": 4344729
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3828798
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 69457,
+  "P�quer Cash": "88071411",
+  "P�quer Torneo": "62626916",
+  "Black Jack": 94099762,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 88499,
+  "Ruleta Convencional": 120078781,
+  "Ruleta en Vivo": 176903201,
+  "M�quinas de Azar": "271820410",
+  "Bingo": 8217812,
+  "Total": "1387139043"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f5"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 191074919,
+        " en Directo": "348682912"
+      }
+    },
+    " H�picas de Contrapartida": "10482402",
+    " Deportivas Mutuas": 3998,
+    " Cruzadas": 3149815
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4649432
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 254638,
+  "P�quer Cash": "87901814",
+  "P�quer Torneo": "66353615",
+  "Black Jack": 92999483,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 36512,
+  "Ruleta Convencional": 130968280,
+  "Ruleta en Vivo": 176635939,
+  "M�quinas de Azar": "276706797",
+  "Bingo": 7872482,
+  "Total": "1397773040"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f6"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 129199995,
+        " en Directo": "336568136"
+      }
+    },
+    " H�picas de Contrapartida": "9864289",
+    " Deportivas Mutuas": 1238,
+    " Cruzadas": 2606751
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4578649
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 548164,
+  "P�quer Cash": "93056164",
+  "P�quer Torneo": "67845186",
+  "Black Jack": 88472766,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 46906,
+  "Ruleta Convencional": 124707544,
+  "Ruleta en Vivo": 187871793,
+  "M�quinas de Azar": "315205486",
+  "Bingo": 8165878,
+  "Total": "1368738947"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f7"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 137400972,
+        " en Directo": "354494925"
+      }
+    },
+    " H�picas de Contrapartida": "10042525",
+    " Deportivas Mutuas": 1170,
+    " Cruzadas": 3305487
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4869165
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 4398,
+  "P�quer Cash": "97945781",
+  "P�quer Torneo": "70083767",
+  "Black Jack": 91879187,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 14288,
+  "Ruleta Convencional": 114694583,
+  "Ruleta en Vivo": 179014030,
+  "M�quinas de Azar": "290621473",
+  "Bingo": 7813797,
+  "Total": "1362185549"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f8"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 170161190,
+        " en Directo": "426651228"
+      }
+    },
+    " H�picas de Contrapartida": "9103754",
+    " Deportivas Mutuas": 1617,
+    " Cruzadas": 3560118
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4293343
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 54844,
+  "P�quer Cash": "98563324",
+  "P�quer Torneo": "80756344",
+  "Black Jack": 83008829,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 8559,
+  "Ruleta Convencional": 131783914,
+  "Ruleta en Vivo": 170856631,
+  "M�quinas de Azar": "313568692",
+  "Bingo": 7285891,
+  "Total": "1499658279"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3f9"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 186177256,
+        " en Directo": "525659360"
+      }
+    },
+    " H�picas de Contrapartida": "8360221",
+    " Deportivas Mutuas": 2211,
+    " Cruzadas": 3529308
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4869992
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 64452,
+  "P�quer Cash": "112903642",
+  "P�quer Torneo": "74414544",
+  "Black Jack": 83384626,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 37292,
+  "Ruleta Convencional": 133529291,
+  "Ruleta en Vivo": 188770585,
+  "M�quinas de Azar": "308415065",
+  "Bingo": 7902792,
+  "Total": "1638020636"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3fa"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 182268399,
+        " en Directo": "527163502"
+      }
+    },
+    " H�picas de Contrapartida": "7260697",
+    " Deportivas Mutuas": 1509,
+    " Cruzadas": 3116748
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4846034
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 96426,
+  "P�quer Cash": "113020024",
+  "P�quer Torneo": "76278784",
+  "Black Jack": 102106551,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 25832,
+  "Ruleta Convencional": 124648311,
+  "Ruleta en Vivo": 186475050,
+  "M�quinas de Azar": "302078975",
+  "Bingo": 7987263,
+  "Total": "1637374102"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3fb"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 168026162,
+        " en Directo": "394919332"
+      }
+    },
+    " H�picas de Contrapartida": "7702911",
+    " Deportivas Mutuas": 1803,
+    " Cruzadas": 2724414
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4316172
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 102066,
+  "P�quer Cash": "114663882",
+  "P�quer Torneo": "80280117",
+  "Black Jack": 102146615,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 64556,
+  "Ruleta Convencional": 134491050,
+  "Ruleta en Vivo": 197645962,
+  "M�quinas de Azar": "350529431",
+  "Bingo": 9048388,
+  "Total": "1566662860"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3fc"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 202283920,
+        " en Directo": "401594736"
+      }
+    },
+    " H�picas de Contrapartida": "11198977",
+    " Deportivas Mutuas": 2219,
+    " Cruzadas": 2847072
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4917805
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 990913,
+  "P�quer Cash": "110793169",
+  "P�quer Torneo": "93169972",
+  "Black Jack": 88639751,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 29127,
+  "Ruleta Convencional": 130481337,
+  "Ruleta en Vivo": 206916043,
+  "M�quinas de Azar": "320993664",
+  "Bingo": 8613255,
+  "Total": "1583471960"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3fd"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 189576559,
+        " en Directo": "365530450"
+      }
+    },
+    " H�picas de Contrapartida": "6165074",
+    " Deportivas Mutuas": 2527,
+    " Cruzadas": 2597347
+  },
+  "Otras Ap": {
+    " de Contrapartida": 5356318
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 60768,
+  "P�quer Cash": "92033237",
+  "P�quer Torneo": "78720769",
+  "Black Jack": 76931442,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 30748,
+  "Ruleta Convencional": 121216635,
+  "Ruleta en Vivo": 206767227,
+  "M�quinas de Azar": "304122115",
+  "Bingo": 7506656,
+  "Total": "1456617873"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3fe"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 190878048,
+        " en Directo": "419028221"
+      }
+    },
+    " H�picas de Contrapartida": "7626889",
+    " Deportivas Mutuas": 2650,
+    " Cruzadas": 2646905
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4950049
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 82560,
+  "P�quer Cash": "102473676",
+  "P�quer Torneo": "81445790",
+  "Black Jack": 92442313,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 37215,
+  "Ruleta Convencional": 127569136,
+  "Ruleta en Vivo": 213967423,
+  "M�quinas de Azar": "343817331",
+  "Bingo": 8150824,
+  "Total": "1595119030"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea3ff"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 200751037,
+        " en Directo": "440044125"
+      }
+    },
+    " H�picas de Contrapartida": "7470704",
+    " Deportivas Mutuas": 2108,
+    " Cruzadas": 2969451
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1388529
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 64913,
+  "P�quer Cash": "100070946",
+  "P�quer Torneo": "81074714",
+  "Black Jack": 76534798,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 30858,
+  "Ruleta Convencional": 111871882,
+  "Ruleta en Vivo": 207315506,
+  "M�quinas de Azar": "337284897",
+  "Bingo": 8016754,
+  "Total": "1574891222"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea400"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 198923478,
+        " en Directo": "388154624"
+      }
+    },
+    " H�picas de Contrapartida": "8632292",
+    " Deportivas Mutuas": 1649,
+    " Cruzadas": 2127278
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3594197
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 545685,
+  "P�quer Cash": "99970899",
+  "P�quer Torneo": "75153916",
+  "Black Jack": 82715911,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 73201,
+  "Ruleta Convencional": 135820228,
+  "Ruleta en Vivo": 220017860,
+  "M�quinas de Azar": "348426859",
+  "Bingo": 7523907,
+  "Total": "1571681985"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea401"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 167056612,
+        " en Directo": "329167313"
+      }
+    },
+    " H�picas de Contrapartida": "8716019",
+    " Deportivas Mutuas": 1372,
+    " Cruzadas": 1744755
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6564220
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 65352,
+  "P�quer Cash": "96803563",
+  "P�quer Torneo": "72734620",
+  "Black Jack": 72770406,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 14426,
+  "Ruleta Convencional": 115516172,
+  "Ruleta en Vivo": 211269029,
+  "M�quinas de Azar": "361274550",
+  "Bingo": 7511668,
+  "Total": "1451210075"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea402"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 134583416,
+        " en Directo": "324891483"
+      }
+    },
+    " H�picas de Contrapartida": "9066352",
+    " Deportivas Mutuas": 351,
+    " Cruzadas": 1592481
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6341278
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 515345,
+  "P�quer Cash": "95495710",
+  "P�quer Torneo": "75234247",
+  "Black Jack": 68417271,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 32909,
+  "Ruleta Convencional": 102458010,
+  "Ruleta en Vivo": 209807924,
+  "M�quinas de Azar": "390560237",
+  "Bingo": 7820021,
+  "Total": "1426817036"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea403"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 173113271,
+        " en Directo": "362961066"
+      }
+    },
+    " H�picas de Contrapartida": "9162821",
+    " Deportivas Mutuas": 3588,
+    " Cruzadas": 2069221
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6335555
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 344481,
+  "P�quer Cash": "100797121",
+  "P�quer Torneo": "74414601",
+  "Black Jack": 68184834,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 11379,
+  "Ruleta Convencional": 118835073,
+  "Ruleta en Vivo": 232314605,
+  "M�quinas de Azar": "372074263",
+  "Bingo": 8170967,
+  "Total": "1528792845"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea404"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 211568040,
+        " en Directo": "384273055"
+      }
+    },
+    " H�picas de Contrapartida": "8859047",
+    " Deportivas Mutuas": 5237,
+    " Cruzadas": 2297664
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6005474
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 87233,
+  "P�quer Cash": "104142280",
+  "P�quer Torneo": "89144057",
+  "Black Jack": 83680495,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 20071,
+  "Ruleta Convencional": 115057767,
+  "Ruleta en Vivo": 243009351,
+  "M�quinas de Azar": "356577266",
+  "Bingo": 7756385,
+  "Total": "1612483423"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea405"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 223655196,
+        " en Directo": "398288683"
+      }
+    },
+    " H�picas de Contrapartida": "9374935",
+    " Deportivas Mutuas": 2420,
+    " Cruzadas": 1339166
+  },
+  "Otras Ap": {
+    " de Contrapartida": 7206833
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 261480,
+  "P�quer Cash": "101796667",
+  "P�quer Torneo": "87990488",
+  "Black Jack": 78155245,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 13686,
+  "Ruleta Convencional": 123814265,
+  "Ruleta en Vivo": 239674841,
+  "M�quinas de Azar": "356994357",
+  "Bingo": 8122949,
+  "Total": "1636691211"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea406"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 218031874,
+        " en Directo": "377446547"
+      }
+    },
+    " H�picas de Contrapartida": "9571067",
+    " Deportivas Mutuas": 4079,
+    " Cruzadas": 1424422
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6404620
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 523547,
+  "P�quer Cash": "96720609",
+  "P�quer Torneo": "86268696",
+  "Black Jack": 86451115,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 17381,
+  "Ruleta Convencional": 118983122,
+  "Ruleta en Vivo": 248221293,
+  "M�quinas de Azar": "359305136",
+  "Bingo": 8027235,
+  "Total": "1617400745"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea407"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 221592627,
+        " en Directo": "355478678"
+      }
+    },
+    " H�picas de Contrapartida": "9011951",
+    " Deportivas Mutuas": 3428,
+    " Cruzadas": 1342160
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6686359
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 56436,
+  "P�quer Cash": "110171755",
+  "P�quer Torneo": "88360434",
+  "Black Jack": 82138525,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 7734,
+  "Ruleta Convencional": 134194382,
+  "Ruleta en Vivo": 291644441,
+  "M�quinas de Azar": "414037797",
+  "Bingo": 8953027,
+  "Total": "1723679734"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea408"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 208514876,
+        " en Directo": "354129866"
+      }
+    },
+    " H�picas de Contrapartida": "8468056",
+    " Deportivas Mutuas": 3671,
+    " Cruzadas": 1302992
+  },
+  "Otras Ap": {
+    " de Contrapartida": 6397160
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 896382,
+  "P�quer Cash": "106828303",
+  "P�quer Torneo": "98792161",
+  "Black Jack": 80972177,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 10972,
+  "Ruleta Convencional": 136886404,
+  "Ruleta en Vivo": 243778595,
+  "M�quinas de Azar": "355293152",
+  "Bingo": 8673566,
+  "Total": "1610948333"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea409"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 210456376,
+        " en Directo": "351387642"
+      }
+    },
+    " H�picas de Contrapartida": "7531369",
+    " Deportivas Mutuas": 5569,
+    " Cruzadas": 1396067
+  },
+  "Otras Ap": {
+    " de Contrapartida": 7054470
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 602406,
+  "P�quer Cash": "99136521",
+  "P�quer Torneo": "87352771",
+  "Black Jack": 74457941,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 5563,
+  "Ruleta Convencional": 120929528,
+  "Ruleta en Vivo": 229473140,
+  "M�quinas de Azar": "340118587",
+  "Bingo": 8029296,
+  "Total": "1537937246"
+},{
+  "_id": {
+    "$oid": "5f6584f1e7e27b07204ea40a"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 105705608,
+        " en Directo": "261783000"
+      }
+    },
+    " H�picas de Contrapartida": "8142803",
+    " Deportivas Mutuas": 2016,
+    " Cruzadas": 817927
+  },
+  "Otras Ap": {
+    " de Contrapartida": 12576083
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 803500,
+  "P�quer Cash": "169045203",
+  "P�quer Torneo": "145074550",
+  "Black Jack": 91001652,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 19887,
+  "Ruleta Convencional": 159346025,
+  "Ruleta en Vivo": 282376857,
+  "M�quinas de Azar": "407810263",
+  "Bingo": 10759047,
+  "Total": "1655264422"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea40b"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea40c"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea40d"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea40e"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea40f"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea410"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea411"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea412"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea413"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea414"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea415"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea416"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea417"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea418"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea419"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41a"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41b"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41c"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41d"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41e"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea41f"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea420"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea421"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea422"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea423"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea424"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea425"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea426"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea427"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea428"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea429"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42a"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42b"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42c"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42d"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42e"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea42f"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea430"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea431"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea432"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea433"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea434"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea435"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea436"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea437"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea438"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea439"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43a"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43b"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43c"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43d"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43e"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea43f"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea440"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea441"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea442"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea443"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea444"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea445"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea446"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea447"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea448"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea449"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44a"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44b"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44c"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44d"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44e"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea44f"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea450"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea451"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea452"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea453"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea454"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea455"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea456"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea457"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea458"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea459"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45a"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45b"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45c"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45d"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45e"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea45f"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea460"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f65853ce7e27b07204ea461"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea462"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9846318,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "93668",
+    " Deportivas Mutuas": 25,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1012354,
+  "P�quer Cash": "4348393",
+  "P�quer Torneo": "2215327",
+  "Black Jack": 812724,
+  "Juegos Complementarios": 5318,
+  "Punto y Banca": 6866,
+  "Ruleta Convencional": 2014241,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 611491,
+  "Total": 20966726
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea463"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10317605,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "66877",
+    " Deportivas Mutuas": 9694,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 623394,
+  "P�quer Cash": "3840514",
+  "P�quer Torneo": "1943549",
+  "Black Jack": 834214,
+  "Juegos Complementarios": 2800,
+  "Punto y Banca": 3141,
+  "Ruleta Convencional": 2103313,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 532667,
+  "Total": 20277770
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea464"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10557605,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "63300",
+    " Deportivas Mutuas": 36412,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 569655,
+  "P�quer Cash": "3999514",
+  "P�quer Torneo": "2069424",
+  "Black Jack": 786502,
+  "Juegos Complementarios": 1899,
+  "Punto y Banca": 2530,
+  "Ruleta Convencional": 2238832,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 595101,
+  "Total": 20920774
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea465"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10109343,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "175759",
+    " Deportivas Mutuas": 15553,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 63
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 631209,
+  "P�quer Cash": "3723006",
+  "P�quer Torneo": "1796117",
+  "Black Jack": 831032,
+  "Juegos Complementarios": 1143,
+  "Punto y Banca": 1499,
+  "Ruleta Convencional": 2128256,
+  "Ruleta en Vivo": 0,
+  "M�quinas de Azar": "0",
+  "Bingo": 550734,
+  "Total": 19963713
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea466"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9988459,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "148618",
+    " Deportivas Mutuas": 21695,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2701
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 502581,
+  "P�quer Cash": "3791287",
+  "P�quer Torneo": "1941025",
+  "Black Jack": 783706,
+  "Juegos Complementarios": 2333,
+  "Punto y Banca": 2345,
+  "Ruleta Convencional": 2011375,
+  "Ruleta en Vivo": 10,
+  "M�quinas de Azar": "0",
+  "Bingo": 651859,
+  "Total": 19847994
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea467"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6767380,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "106324",
+    " Deportivas Mutuas": 17814,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 131
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 364150,
+  "P�quer Cash": "3558941",
+  "P�quer Torneo": "1583200",
+  "Black Jack": 786673,
+  "Juegos Complementarios": 1373,
+  "Punto y Banca": 2173,
+  "Ruleta Convencional": 1915774,
+  "Ruleta en Vivo": 14,
+  "M�quinas de Azar": "0",
+  "Bingo": 597430,
+  "Total": 15701376
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea468"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7570896,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "84305",
+    " Deportivas Mutuas": 18259,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 424177,
+  "P�quer Cash": "3556940",
+  "P�quer Torneo": "1572373",
+  "Black Jack": 848717,
+  "Juegos Complementarios": 491,
+  "Punto y Banca": 4131,
+  "Ruleta Convencional": 1920003,
+  "Ruleta en Vivo": 1904,
+  "M�quinas de Azar": "0",
+  "Bingo": 574299,
+  "Total": 16576496
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea469"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8929391,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "206538",
+    " Deportivas Mutuas": 9302,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 423775,
+  "P�quer Cash": "3568222",
+  "P�quer Torneo": "1682476",
+  "Black Jack": 691281,
+  "Juegos Complementarios": 721,
+  "Punto y Banca": 2136,
+  "Ruleta Convencional": 1859758,
+  "Ruleta en Vivo": 4397,
+  "M�quinas de Azar": "0",
+  "Bingo": 606849,
+  "Total": 17984845
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46a"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7809682,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "60191",
+    " Deportivas Mutuas": 14903,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": -1
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 424681,
+  "P�quer Cash": "3594207",
+  "P�quer Torneo": "1782466",
+  "Black Jack": 791581,
+  "Juegos Complementarios": 1069,
+  "Punto y Banca": 2404,
+  "Ruleta Convencional": 1843720,
+  "Ruleta en Vivo": 9036,
+  "M�quinas de Azar": "0",
+  "Bingo": 642444,
+  "Total": 16976384
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46b"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9452693,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "177953",
+    " Deportivas Mutuas": 32373,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 294434,
+  "P�quer Cash": "3816941",
+  "P�quer Torneo": "1875847",
+  "Black Jack": 925510,
+  "Juegos Complementarios": 1965,
+  "Punto y Banca": 4792,
+  "Ruleta Convencional": 2103743,
+  "Ruleta en Vivo": 11118,
+  "M�quinas de Azar": "0",
+  "Bingo": 705111,
+  "Total": 19402482
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46c"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10224330,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "161415",
+    " Deportivas Mutuas": 25206,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 499627,
+  "P�quer Cash": "3686412",
+  "P�quer Torneo": "1959252",
+  "Black Jack": 716748,
+  "Juegos Complementarios": 1645,
+  "Punto y Banca": 3185,
+  "Ruleta Convencional": 1835582,
+  "Ruleta en Vivo": 34684,
+  "M�quinas de Azar": "0",
+  "Bingo": 677530,
+  "Total": 19825617
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46d"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9368414,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "72568",
+    " Deportivas Mutuas": 14184,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": -134
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1287709,
+  "P�quer Cash": "3834081",
+  "P�quer Torneo": "2031885",
+  "Black Jack": 777688,
+  "Juegos Complementarios": 1050,
+  "Punto y Banca": 2456,
+  "Ruleta Convencional": 2036935,
+  "Ruleta en Vivo": 28682,
+  "M�quinas de Azar": "0",
+  "Bingo": 740892,
+  "Total": 20196410
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46e"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12279502,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "114000",
+    " Deportivas Mutuas": 17979,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 370
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 736304,
+  "P�quer Cash": "4101748",
+  "P�quer Torneo": "2253917",
+  "Black Jack": 768920,
+  "Juegos Complementarios": 474,
+  "Punto y Banca": 4783,
+  "Ruleta Convencional": 2240154,
+  "Ruleta en Vivo": 3784,
+  "M�quinas de Azar": "0",
+  "Bingo": 755319,
+  "Total": 23277255
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea46f"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10423344,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "161710",
+    " Deportivas Mutuas": 19640,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 441
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 493880,
+  "P�quer Cash": "3714894",
+  "P�quer Torneo": "2020918",
+  "Black Jack": 757263,
+  "Juegos Complementarios": 1316,
+  "Punto y Banca": 6877,
+  "Ruleta Convencional": 2065243,
+  "Ruleta en Vivo": 14885,
+  "M�quinas de Azar": "0",
+  "Bingo": 695795,
+  "Total": 20376206
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea470"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 14237163,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "99379",
+    " Deportivas Mutuas": 21713,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 289
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 428208,
+  "P�quer Cash": "3689854",
+  "P�quer Torneo": "1914191",
+  "Black Jack": 918711,
+  "Juegos Complementarios": 692,
+  "Punto y Banca": 3490,
+  "Ruleta Convencional": 2028591,
+  "Ruleta en Vivo": 22918,
+  "M�quinas de Azar": "0",
+  "Bingo": 626199,
+  "Total": 23991398
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea471"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6366533,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "146017",
+    " Deportivas Mutuas": 6359,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 222995,
+  "P�quer Cash": "3273908",
+  "P�quer Torneo": "1790679",
+  "Black Jack": 820795,
+  "Juegos Complementarios": 1146,
+  "Punto y Banca": 4093,
+  "Ruleta Convencional": 2106952,
+  "Ruleta en Vivo": 23406,
+  "M�quinas de Azar": "0",
+  "Bingo": 633897,
+  "Total": 15396779
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea472"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11174704,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "237045",
+    " Deportivas Mutuas": 4309,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 326
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 368172,
+  "P�quer Cash": "3557899",
+  "P�quer Torneo": "1816144",
+  "Black Jack": 845591,
+  "Juegos Complementarios": 1059,
+  "Punto y Banca": 4072,
+  "Ruleta Convencional": 2224452,
+  "Ruleta en Vivo": 20186,
+  "M�quinas de Azar": "0",
+  "Bingo": 652183,
+  "Total": 20906143
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea473"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 13468439,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "66112",
+    " Deportivas Mutuas": 6999,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 0
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 129789,
+  "P�quer Cash": "3328688",
+  "P�quer Torneo": "1645806",
+  "Black Jack": 890268,
+  "Juegos Complementarios": 1038,
+  "Punto y Banca": 2160,
+  "Ruleta Convencional": 2156352,
+  "Ruleta en Vivo": 48924,
+  "M�quinas de Azar": "0",
+  "Bingo": 603456,
+  "Total": 22348031
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea474"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8476248,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "251408",
+    " Deportivas Mutuas": -10369,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 145
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 178465,
+  "P�quer Cash": "3197765",
+  "P�quer Torneo": "2523576",
+  "Black Jack": 810240,
+  "Juegos Complementarios": 730,
+  "Punto y Banca": 7501,
+  "Ruleta Convencional": 2129997,
+  "Ruleta en Vivo": 29354,
+  "M�quinas de Azar": "0",
+  "Bingo": 687217,
+  "Total": 18282278
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea475"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11208815,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "211550",
+    " Deportivas Mutuas": 6600,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": -804
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 126717,
+  "P�quer Cash": "3091620",
+  "P�quer Torneo": "2755160",
+  "Black Jack": 708964,
+  "Juegos Complementarios": 1859,
+  "Punto y Banca": 4964,
+  "Ruleta Convencional": 1753558,
+  "Ruleta en Vivo": 18382,
+  "M�quinas de Azar": "0",
+  "Bingo": 673647,
+  "Total": 20561033
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea476"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12918236,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "153633",
+    " Deportivas Mutuas": 11585,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1616
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 164729,
+  "P�quer Cash": "3031366",
+  "P�quer Torneo": "2633421",
+  "Black Jack": 838779,
+  "Juegos Complementarios": 1313,
+  "Punto y Banca": 5514,
+  "Ruleta Convencional": 2129988,
+  "Ruleta en Vivo": 50112,
+  "M�quinas de Azar": "0",
+  "Bingo": 677327,
+  "Total": 22617618
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea477"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10382203,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "115169",
+    " Deportivas Mutuas": 10545,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2604
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 248864,
+  "P�quer Cash": "3128755",
+  "P�quer Torneo": "2597349",
+  "Black Jack": 1144289,
+  "Juegos Complementarios": 1379,
+  "Punto y Banca": 6024,
+  "Ruleta Convencional": 2239532,
+  "Ruleta en Vivo": 45234,
+  "M�quinas de Azar": "0",
+  "Bingo": 678717,
+  "Total": 20600665
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea478"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10807125,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "168148",
+    " Deportivas Mutuas": 6761,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 2626
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 438016,
+  "P�quer Cash": "2857034",
+  "P�quer Torneo": "2641891",
+  "Black Jack": 1442185,
+  "Juegos Complementarios": 829,
+  "Punto y Banca": 10212,
+  "Ruleta Convencional": 2501880,
+  "Ruleta en Vivo": 51871,
+  "M�quinas de Azar": "0",
+  "Bingo": 661469,
+  "Total": 21590049
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea479"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12023146,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "292370",
+    " Deportivas Mutuas": 4158,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 3474
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 842076,
+  "P�quer Cash": "3101515",
+  "P�quer Torneo": "2304446",
+  "Black Jack": 1029556,
+  "Juegos Complementarios": 748,
+  "Punto y Banca": 2987,
+  "Ruleta Convencional": 2504259,
+  "Ruleta en Vivo": 78073,
+  "M�quinas de Azar": "0",
+  "Bingo": 699337,
+  "Total": 22886144
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47a"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 13127927,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "361893",
+    " Deportivas Mutuas": 6026,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 4824
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 267536,
+  "P�quer Cash": "3174109",
+  "P�quer Torneo": "2998148",
+  "Black Jack": 963701,
+  "Juegos Complementarios": 333,
+  "Punto y Banca": 4698,
+  "Ruleta Convencional": 1776701,
+  "Ruleta en Vivo": 900733,
+  "M�quinas de Azar": "0",
+  "Bingo": 732650,
+  "Total": 24319278
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47b"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 15582476,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "201310",
+    " Deportivas Mutuas": -13554,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 25602
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 283261,
+  "P�quer Cash": "2751746",
+  "P�quer Torneo": "2435492",
+  "Black Jack": 1178763,
+  "Juegos Complementarios": 864,
+  "Punto y Banca": 5572,
+  "Ruleta Convencional": 2025777,
+  "Ruleta en Vivo": 933168,
+  "M�quinas de Azar": "0",
+  "Bingo": 600640,
+  "Total": 26011117
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47c"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 15569791,
+        " en Directo": 0
+      }
+    },
+    " H�picas de Contrapartida": "109638",
+    " Deportivas Mutuas": -2419,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 18564
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 313040,
+  "P�quer Cash": "2811742",
+  "P�quer Torneo": "2640371",
+  "Black Jack": 1643952,
+  "Juegos Complementarios": 861,
+  "Punto y Banca": 5509,
+  "Ruleta Convencional": 1970649,
+  "Ruleta en Vivo": 839973,
+  "M�quinas de Azar": "0",
+  "Bingo": 681951,
+  "Total": 26603622
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47d"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 916159,
+        " en Directo": 8413602
+      }
+    },
+    " H�picas de Contrapartida": "287799",
+    " Deportivas Mutuas": -16715,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 37169
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 324711,
+  "P�quer Cash": "2626914",
+  "P�quer Torneo": "2473320",
+  "Black Jack": 1486522,
+  "Juegos Complementarios": 737,
+  "Punto y Banca": 6492,
+  "Ruleta Convencional": 2004462,
+  "Ruleta en Vivo": 1024647,
+  "M�quinas de Azar": "0",
+  "Bingo": 638776,
+  "Total": 20224594
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47e"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 2952543,
+        " en Directo": 5751888
+      }
+    },
+    " H�picas de Contrapartida": "244950",
+    " Deportivas Mutuas": -2991,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 28165
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 254207,
+  "P�quer Cash": "2430914",
+  "P�quer Torneo": "2301912",
+  "Black Jack": 1417331,
+  "Juegos Complementarios": 307,
+  "Punto y Banca": 5938,
+  "Ruleta Convencional": 2247396,
+  "Ruleta en Vivo": 964900,
+  "M�quinas de Azar": "412",
+  "Bingo": 630986,
+  "Total": 19228858
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea47f"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 2858326,
+        " en Directo": 9093573
+      }
+    },
+    " H�picas de Contrapartida": "397678",
+    " Deportivas Mutuas": -1784,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 43618
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 226527,
+  "P�quer Cash": "2232397",
+  "P�quer Torneo": "2316145",
+  "Black Jack": 1277507,
+  "Juegos Complementarios": 259,
+  "Punto y Banca": -3146,
+  "Ruleta Convencional": 2006688,
+  "Ruleta en Vivo": 1011566,
+  "M�quinas de Azar": "1207410",
+  "Bingo": 577520,
+  "Total": 23244284
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea480"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 3250935,
+        " en Directo": 7122507
+      }
+    },
+    " H�picas de Contrapartida": "248726",
+    " Deportivas Mutuas": -3117,
+    " Cruzadas": 0
+  },
+  "Otras Ap": {
+    " de Contrapartida": 47618
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 60600,
+  "P�quer Cash": "2278092",
+  "P�quer Torneo": "2402902",
+  "Black Jack": 1195182,
+  "Juegos Complementarios": 365,
+  "Punto y Banca": 10548,
+  "Ruleta Convencional": 1880186,
+  "Ruleta en Vivo": 977311,
+  "M�quinas de Azar": "1806323",
+  "Bingo": 625871,
+  "Total": 21904049
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea481"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9098597,
+        " en Directo": 9695114
+      }
+    },
+    " H�picas de Contrapartida": "263322",
+    " Deportivas Mutuas": 816,
+    " Cruzadas": 1138
+  },
+  "Otras Ap": {
+    " de Contrapartida": 25526
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 200005,
+  "P�quer Cash": "2433863",
+  "P�quer Torneo": "2463901",
+  "Black Jack": 1232483,
+  "Juegos Complementarios": 248,
+  "Punto y Banca": 1438,
+  "Ruleta Convencional": 1867054,
+  "Ruleta en Vivo": 717309,
+  "M�quinas de Azar": "1640303",
+  "Bingo": 562350,
+  "Total": 30203468
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea482"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10137123,
+        " en Directo": 8334808
+      }
+    },
+    " H�picas de Contrapartida": "564065",
+    " Deportivas Mutuas": 4216,
+    " Cruzadas": 14220
+  },
+  "Otras Ap": {
+    " de Contrapartida": 51476
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 182957,
+  "P�quer Cash": "2356131",
+  "P�quer Torneo": "2482198",
+  "Black Jack": 1260061,
+  "Juegos Complementarios": -5,
+  "Punto y Banca": 1399,
+  "Ruleta Convencional": 1888002,
+  "Ruleta en Vivo": 1110126,
+  "M�quinas de Azar": "2419260",
+  "Bingo": 604773,
+  "Total": 31410810
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea483"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6391762,
+        " en Directo": 10059455
+      }
+    },
+    " H�picas de Contrapartida": "813502",
+    " Deportivas Mutuas": 2682,
+    " Cruzadas": 32922
+  },
+  "Otras Ap": {
+    " de Contrapartida": 102358
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 431268,
+  "P�quer Cash": "2520580",
+  "P�quer Torneo": "2597413",
+  "Black Jack": 1253793,
+  "Juegos Complementarios": 697,
+  "Punto y Banca": 3138,
+  "Ruleta Convencional": 1895250,
+  "Ruleta en Vivo": 1292196,
+  "M�quinas de Azar": "2501079",
+  "Bingo": 683851,
+  "Total": 30581945
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea484"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 3855783,
+        " en Directo": 9010169
+      }
+    },
+    " H�picas de Contrapartida": "548012",
+    " Deportivas Mutuas": 4157,
+    " Cruzadas": 37233
+  },
+  "Otras Ap": {
+    " de Contrapartida": 187655
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 444383,
+  "P�quer Cash": "2304514",
+  "P�quer Torneo": "2681243",
+  "Black Jack": 1217258,
+  "Juegos Complementarios": 746,
+  "Punto y Banca": 2256,
+  "Ruleta Convencional": 1979538,
+  "Ruleta en Vivo": 1357128,
+  "M�quinas de Azar": "2582192",
+  "Bingo": 645054,
+  "Total": 26857321
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea485"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11737450,
+        " en Directo": 9180314
+      }
+    },
+    " H�picas de Contrapartida": "494436",
+    " Deportivas Mutuas": 4468,
+    " Cruzadas": 31840
+  },
+  "Otras Ap": {
+    " de Contrapartida": 212183
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1199544,
+  "P�quer Cash": "2451301",
+  "P�quer Torneo": "2003431",
+  "Black Jack": 1355021,
+  "Juegos Complementarios": 335,
+  "Punto y Banca": 4581,
+  "Ruleta Convencional": 2128891,
+  "Ruleta en Vivo": 1589046,
+  "M�quinas de Azar": "3388929",
+  "Bingo": 746932,
+  "Total": 36528703
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea486"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8200521,
+        " en Directo": 10310891
+      }
+    },
+    " H�picas de Contrapartida": "436368",
+    " Deportivas Mutuas": 1397,
+    " Cruzadas": 42261
+  },
+  "Otras Ap": {
+    " de Contrapartida": 249687
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 496463,
+  "P�quer Cash": "2630060",
+  "P�quer Torneo": "2424550",
+  "Black Jack": 1375238,
+  "Juegos Complementarios": 545,
+  "Punto y Banca": 5218,
+  "Ruleta Convencional": 1930962,
+  "Ruleta en Vivo": 1751056,
+  "M�quinas de Azar": "2959717",
+  "Bingo": 753571,
+  "Total": 33568507
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea487"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6284990,
+        " en Directo": 11483629
+      }
+    },
+    " H�picas de Contrapartida": "339850",
+    " Deportivas Mutuas": 900,
+    " Cruzadas": 43817
+  },
+  "Otras Ap": {
+    " de Contrapartida": 231432
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 677195,
+  "P�quer Cash": "2402062",
+  "P�quer Torneo": "2486450",
+  "Black Jack": 1253155,
+  "Juegos Complementarios": 326,
+  "Punto y Banca": 2601,
+  "Ruleta Convencional": 1882869,
+  "Ruleta en Vivo": 1594669,
+  "M�quinas de Azar": "2912526",
+  "Bingo": 749780,
+  "Total": 32346251
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea488"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8564726,
+        " en Directo": 11252090
+      }
+    },
+    " H�picas de Contrapartida": "237192",
+    " Deportivas Mutuas": 3186,
+    " Cruzadas": 38876
+  },
+  "Otras Ap": {
+    " de Contrapartida": 350655
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 454937,
+  "P�quer Cash": "2328315",
+  "P�quer Torneo": "2518199",
+  "Black Jack": 1403045,
+  "Juegos Complementarios": 457,
+  "Punto y Banca": 2347,
+  "Ruleta Convencional": 2103793,
+  "Ruleta en Vivo": 2258536,
+  "M�quinas de Azar": "3673336",
+  "Bingo": 709391,
+  "Total": 35899083
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea489"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 5204045,
+        " en Directo": 7736362
+      }
+    },
+    " H�picas de Contrapartida": "560479",
+    " Deportivas Mutuas": 698,
+    " Cruzadas": 52629
+  },
+  "Otras Ap": {
+    " de Contrapartida": 352283
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 548778,
+  "P�quer Cash": "2152627",
+  "P�quer Torneo": "2507537",
+  "Black Jack": 1468496,
+  "Juegos Complementarios": 291,
+  "Punto y Banca": 1361,
+  "Ruleta Convencional": 2056572,
+  "Ruleta en Vivo": 2032462,
+  "M�quinas de Azar": "3815171",
+  "Bingo": 752323,
+  "Total": 29242115
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48a"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 5893856,
+        " en Directo": 9904420
+      }
+    },
+    " H�picas de Contrapartida": "519957",
+    " Deportivas Mutuas": 178,
+    " Cruzadas": 45672
+  },
+  "Otras Ap": {
+    " de Contrapartida": 258491
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 289712,
+  "P�quer Cash": "2299884",
+  "P�quer Torneo": "2586195",
+  "Black Jack": 1562677,
+  "Juegos Complementarios": 607,
+  "Punto y Banca": 3284,
+  "Ruleta Convencional": 2235716,
+  "Ruleta en Vivo": 1834883,
+  "M�quinas de Azar": "4174792",
+  "Bingo": 726292,
+  "Total": 32336616
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48b"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12859312,
+        " en Directo": 8533047
+      }
+    },
+    " H�picas de Contrapartida": "439122",
+    " Deportivas Mutuas": 1,
+    " Cruzadas": 36996
+  },
+  "Otras Ap": {
+    " de Contrapartida": 332027
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 534125,
+  "P�quer Cash": "2019865",
+  "P�quer Torneo": "2184650",
+  "Black Jack": 1454835,
+  "Juegos Complementarios": 492,
+  "Punto y Banca": 2291,
+  "Ruleta Convencional": 1848532,
+  "Ruleta en Vivo": 1870759,
+  "M�quinas de Azar": "3721104",
+  "Bingo": 698694,
+  "Total": 36535853
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48c"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6681399,
+        " en Directo": 9029577
+      }
+    },
+    " H�picas de Contrapartida": "394149",
+    " Deportivas Mutuas": 967,
+    " Cruzadas": 29949
+  },
+  "Otras Ap": {
+    " de Contrapartida": 240653
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 657864,
+  "P�quer Cash": "2062384",
+  "P�quer Torneo": "2375005",
+  "Black Jack": 1380855,
+  "Juegos Complementarios": 179,
+  "Punto y Banca": 710,
+  "Ruleta Convencional": 1776752,
+  "Ruleta en Vivo": 1796692,
+  "M�quinas de Azar": "4655809",
+  "Bingo": 713604,
+  "Total": 31796547
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48d"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8377953,
+        " en Directo": 9468898
+      }
+    },
+    " H�picas de Contrapartida": "457193",
+    " Deportivas Mutuas": -169,
+    " Cruzadas": 43377
+  },
+  "Otras Ap": {
+    " de Contrapartida": -155002
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 643093,
+  "P�quer Cash": "2158884",
+  "P�quer Torneo": "2466444",
+  "Black Jack": 1117073,
+  "Juegos Complementarios": 340,
+  "Punto y Banca": 3085,
+  "Ruleta Convencional": 1981142,
+  "Ruleta en Vivo": 1433084,
+  "M�quinas de Azar": "4534597",
+  "Bingo": 682851,
+  "Total": 33212842
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48e"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10288251,
+        " en Directo": 10717115
+      }
+    },
+    " H�picas de Contrapartida": "401390",
+    " Deportivas Mutuas": 3643,
+    " Cruzadas": 46424
+  },
+  "Otras Ap": {
+    " de Contrapartida": 241942
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 391919,
+  "P�quer Cash": "2158738",
+  "P�quer Torneo": "2569661",
+  "Black Jack": 1479496,
+  "Juegos Complementarios": 459,
+  "Punto y Banca": 1739,
+  "Ruleta Convencional": 2122585,
+  "Ruleta en Vivo": 1548991,
+  "M�quinas de Azar": "4610527",
+  "Bingo": 786465,
+  "Total": 37369343
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea48f"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9925531,
+        " en Directo": 13668331
+      }
+    },
+    " H�picas de Contrapartida": "87080",
+    " Deportivas Mutuas": 2975,
+    " Cruzadas": 53700
+  },
+  "Otras Ap": {
+    " de Contrapartida": 281575
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 545167,
+  "P�quer Cash": "2263086",
+  "P�quer Torneo": "2697115",
+  "Black Jack": 1732429,
+  "Juegos Complementarios": 252,
+  "Punto y Banca": 1360,
+  "Ruleta Convencional": 1835644,
+  "Ruleta en Vivo": 2045135,
+  "M�quinas de Azar": "5271378",
+  "Bingo": 804881,
+  "Total": 41215640
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea490"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11682553,
+        " en Directo": 13542836
+      }
+    },
+    " H�picas de Contrapartida": "182646",
+    " Deportivas Mutuas": -849,
+    " Cruzadas": 53402
+  },
+  "Otras Ap": {
+    " de Contrapartida": 175291
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 462986,
+  "P�quer Cash": "2182455",
+  "P�quer Torneo": "2810524",
+  "Black Jack": 1981637,
+  "Juegos Complementarios": 56,
+  "Punto y Banca": 204,
+  "Ruleta Convencional": 1839066,
+  "Ruleta en Vivo": 2258538,
+  "M�quinas de Azar": "5156546",
+  "Bingo": 812593,
+  "Total": 43140485
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea491"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8575592,
+        " en Directo": 10400444
+      }
+    },
+    " H�picas de Contrapartida": "177144",
+    " Deportivas Mutuas": 1092,
+    " Cruzadas": 43148
+  },
+  "Otras Ap": {
+    " de Contrapartida": 313053
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 1200749,
+  "P�quer Cash": "2276304",
+  "P�quer Torneo": "3003014",
+  "Black Jack": 1875131,
+  "Juegos Complementarios": 337,
+  "Punto y Banca": 1390,
+  "Ruleta Convencional": 2346326,
+  "Ruleta en Vivo": 2073994,
+  "M�quinas de Azar": "6323347",
+  "Bingo": 881575,
+  "Total": 39492640
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea492"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 14580533,
+        " en Directo": 16727789
+      }
+    },
+    " H�picas de Contrapartida": "493161",
+    " Deportivas Mutuas": 1608,
+    " Cruzadas": 46184
+  },
+  "Otras Ap": {
+    " de Contrapartida": 357690
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 283190,
+  "P�quer Cash": "2382127",
+  "P�quer Torneo": "3006905",
+  "Black Jack": 1888747,
+  "Juegos Complementarios": 165,
+  "Punto y Banca": 653,
+  "Ruleta Convencional": 2040536,
+  "Ruleta en Vivo": 2787572,
+  "M�quinas de Azar": "5683897",
+  "Bingo": 925909,
+  "Total": 51206664
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea493"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 6255737,
+        " en Directo": 10815519
+      }
+    },
+    " H�picas de Contrapartida": "403320",
+    " Deportivas Mutuas": 1836,
+    " Cruzadas": 46085
+  },
+  "Otras Ap": {
+    " de Contrapartida": 229264
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 362161,
+  "P�quer Cash": "1940121",
+  "P�quer Torneo": "2812165",
+  "Black Jack": 1602825,
+  "Juegos Complementarios": 130,
+  "Punto y Banca": 829,
+  "Ruleta Convencional": 2080393,
+  "Ruleta en Vivo": 2080450,
+  "M�quinas de Azar": "5735269",
+  "Bingo": 876028,
+  "Total": 35242133
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea494"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 4371606,
+        " en Directo": 15497192
+      }
+    },
+    " H�picas de Contrapartida": "468241",
+    " Deportivas Mutuas": 1390,
+    " Cruzadas": 49812
+  },
+  "Otras Ap": {
+    " de Contrapartida": 316645
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 367085,
+  "P�quer Cash": "2142269",
+  "P�quer Torneo": "2877838",
+  "Black Jack": 1944944,
+  "Juegos Complementarios": 43,
+  "Punto y Banca": 1108,
+  "Ruleta Convencional": 2412990,
+  "Ruleta en Vivo": 3064019,
+  "M�quinas de Azar": "6131070",
+  "Bingo": 891552,
+  "Total": 40537805
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea495"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7874855,
+        " en Directo": 13510367
+      }
+    },
+    " H�picas de Contrapartida": "432595",
+    " Deportivas Mutuas": 1559,
+    " Cruzadas": 49618
+  },
+  "Otras Ap": {
+    " de Contrapartida": 293042
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 267821,
+  "P�quer Cash": "1851849",
+  "P�quer Torneo": "3182177",
+  "Black Jack": 1783942,
+  "Juegos Complementarios": 23,
+  "Punto y Banca": 1175,
+  "Ruleta Convencional": 2365496,
+  "Ruleta en Vivo": 2895166,
+  "M�quinas de Azar": "7267898",
+  "Bingo": 945493,
+  "Total": 42723075
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea496"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7618536,
+        " en Directo": 15415945
+      }
+    },
+    " H�picas de Contrapartida": "304436",
+    " Deportivas Mutuas": 1051,
+    " Cruzadas": 43328
+  },
+  "Otras Ap": {
+    " de Contrapartida": 411651
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 265261,
+  "P�quer Cash": "1924651",
+  "P�quer Torneo": "2835720",
+  "Black Jack": 1467542,
+  "Juegos Complementarios": 47,
+  "Punto y Banca": 492,
+  "Ruleta Convencional": 2119947,
+  "Ruleta en Vivo": 2836350,
+  "M�quinas de Azar": "6635814",
+  "Bingo": 964112,
+  "Total": 42844883
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea497"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 2501191,
+        " en Directo": 10454632
+      }
+    },
+    " H�picas de Contrapartida": "455183",
+    " Deportivas Mutuas": 795,
+    " Cruzadas": 48982
+  },
+  "Otras Ap": {
+    " de Contrapartida": 309058
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 507193,
+  "P�quer Cash": "1837966",
+  "P�quer Torneo": "2797642",
+  "Black Jack": 1530961,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -351,
+  "Ruleta Convencional": 2177416,
+  "Ruleta en Vivo": 2993692,
+  "M�quinas de Azar": "7222525",
+  "Bingo": 895226,
+  "Total": 33732112
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea498"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7521208,
+        " en Directo": 11983046
+      }
+    },
+    " H�picas de Contrapartida": "707295",
+    " Deportivas Mutuas": 872,
+    " Cruzadas": 34349
+  },
+  "Otras Ap": {
+    " de Contrapartida": 245299
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 938219,
+  "P�quer Cash": "1910844",
+  "P�quer Torneo": "2929956",
+  "Black Jack": 1519384,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 474,
+  "Ruleta Convencional": 2329456,
+  "Ruleta en Vivo": 3061734,
+  "M�quinas de Azar": "7761650",
+  "Bingo": 936270,
+  "Total": 41880057
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea499"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11078732,
+        " en Directo": 14181435
+      }
+    },
+    " H�picas de Contrapartida": "647452",
+    " Deportivas Mutuas": 807,
+    " Cruzadas": 48966
+  },
+  "Otras Ap": {
+    " de Contrapartida": 298540
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 568990,
+  "P�quer Cash": "1887406",
+  "P�quer Torneo": "2945866",
+  "Black Jack": 1903379,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 244,
+  "Ruleta Convencional": 2164158,
+  "Ruleta en Vivo": 2919687,
+  "M�quinas de Azar": "7825334",
+  "Bingo": 987564,
+  "Total": 47458560
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49a"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10991003,
+        " en Directo": 18159768
+      }
+    },
+    " H�picas de Contrapartida": "462000",
+    " Deportivas Mutuas": 1104,
+    " Cruzadas": 34833
+  },
+  "Otras Ap": {
+    " de Contrapartida": 242370
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 617560,
+  "P�quer Cash": "2121902",
+  "P�quer Torneo": "2868611",
+  "Black Jack": 2149811,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 1419,
+  "Ruleta Convencional": 2323793,
+  "Ruleta en Vivo": 3109282,
+  "M�quinas de Azar": "6647092",
+  "Bingo": 900858,
+  "Total": 50631405
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49b"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 16777525,
+        " en Directo": 18101399
+      }
+    },
+    " H�picas de Contrapartida": "325405",
+    " Deportivas Mutuas": 676,
+    " Cruzadas": 37666
+  },
+  "Otras Ap": {
+    " de Contrapartida": 339187
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 248672,
+  "P�quer Cash": "2029651",
+  "P�quer Torneo": "3000631",
+  "Black Jack": 2064206,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 307,
+  "Ruleta Convencional": 2553859,
+  "Ruleta en Vivo": 3144636,
+  "M�quinas de Azar": "7620818",
+  "Bingo": 968274,
+  "Total": 57212912
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49c"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12867030,
+        " en Directo": 15535661
+      }
+    },
+    " H�picas de Contrapartida": "478785",
+    " Deportivas Mutuas": 920,
+    " Cruzadas": 32942
+  },
+  "Otras Ap": {
+    " de Contrapartida": 136311
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 355394,
+  "P�quer Cash": "2042874",
+  "P�quer Torneo": "3043766",
+  "Black Jack": 1982576,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 2540,
+  "Ruleta Convencional": 2345846,
+  "Ruleta en Vivo": 2947692,
+  "M�quinas de Azar": "8135545",
+  "Bingo": 992675,
+  "Total": 50900558
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49d"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 19331085,
+        " en Directo": 17254932
+      }
+    },
+    " H�picas de Contrapartida": "566820",
+    " Deportivas Mutuas": 966,
+    " Cruzadas": 30115
+  },
+  "Otras Ap": {
+    " de Contrapartida": 253528
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 994111,
+  "P�quer Cash": "2227550",
+  "P�quer Torneo": "3095208",
+  "Black Jack": 2131666,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 1897,
+  "Ruleta Convencional": 2656855,
+  "Ruleta en Vivo": 3466638,
+  "M�quinas de Azar": "9795091",
+  "Bingo": 1171539,
+  "Total": 62978001
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49e"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 15835469,
+        " en Directo": 17085335
+      }
+    },
+    " H�picas de Contrapartida": "411747",
+    " Deportivas Mutuas": 1464,
+    " Cruzadas": 29809
+  },
+  "Otras Ap": {
+    " de Contrapartida": 322293
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 73352,
+  "P�quer Cash": "2685487",
+  "P�quer Torneo": "3758434",
+  "Black Jack": 2158255,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 160,
+  "Ruleta Convencional": 2601112,
+  "Ruleta en Vivo": 4039819,
+  "M�quinas de Azar": "9457324",
+  "Bingo": 1249640,
+  "Total": 59709701
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea49f"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8169867,
+        " en Directo": 14353313
+      }
+    },
+    " H�picas de Contrapartida": "486500",
+    " Deportivas Mutuas": 261,
+    " Cruzadas": 39348
+  },
+  "Otras Ap": {
+    " de Contrapartida": 284169
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 71189,
+  "P�quer Cash": "2726791",
+  "P�quer Torneo": "4586925",
+  "Black Jack": 2011324,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -148,
+  "Ruleta Convencional": 2638707,
+  "Ruleta en Vivo": 3827453,
+  "M�quinas de Azar": "8570104",
+  "Bingo": 962363,
+  "Total": 48728164
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a0"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 3814137,
+        " en Directo": 18108139
+      }
+    },
+    " H�picas de Contrapartida": "385918",
+    " Deportivas Mutuas": -575,
+    " Cruzadas": 36346
+  },
+  "Otras Ap": {
+    " de Contrapartida": 197908
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 55883,
+  "P�quer Cash": "2994478",
+  "P�quer Torneo": "4720176",
+  "Black Jack": 2399582,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 186,
+  "Ruleta Convencional": 3200108,
+  "Ruleta en Vivo": 3823570,
+  "M�quinas de Azar": "10941576",
+  "Bingo": 1305071,
+  "Total": 51982504
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a1"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 11307288,
+        " en Directo": 17321111
+      }
+    },
+    " H�picas de Contrapartida": "515136",
+    " Deportivas Mutuas": 1022,
+    " Cruzadas": 35560
+  },
+  "Otras Ap": {
+    " de Contrapartida": 252148
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 63320,
+  "P�quer Cash": "2361386",
+  "P�quer Torneo": "4247677",
+  "Black Jack": 2491961,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 727,
+  "Ruleta Convencional": 2752427,
+  "Ruleta en Vivo": 3605009,
+  "M�quinas de Azar": "9215957",
+  "Bingo": 1093796,
+  "Total": 55264527
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a2"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 4525481,
+        " en Directo": 14220052
+      }
+    },
+    " H�picas de Contrapartida": "386098",
+    " Deportivas Mutuas": 482,
+    " Cruzadas": 33132
+  },
+  "Otras Ap": {
+    " de Contrapartida": 326109
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 45457,
+  "P�quer Cash": "2340629",
+  "P�quer Torneo": "4197147",
+  "Black Jack": 2180952,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 1119,
+  "Ruleta Convencional": 2693000,
+  "Ruleta en Vivo": 3285969,
+  "M�quinas de Azar": "10021341",
+  "Bingo": 1118710,
+  "Total": 45375679
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a3"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 21950873,
+        " en Directo": 16024568
+      }
+    },
+    " H�picas de Contrapartida": "400415",
+    " Deportivas Mutuas": 1109,
+    " Cruzadas": 27661
+  },
+  "Otras Ap": {
+    " de Contrapartida": 279560
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 234638,
+  "P�quer Cash": "2178318",
+  "P�quer Torneo": "4123091",
+  "Black Jack": 2304137,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -449,
+  "Ruleta Convencional": 2952761,
+  "Ruleta en Vivo": 3655874,
+  "M�quinas de Azar": "11316950",
+  "Bingo": 1066742,
+  "Total": 66516246
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a4"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12717242,
+        " en Directo": 17679697
+      }
+    },
+    " H�picas de Contrapartida": "373899",
+    " Deportivas Mutuas": 596,
+    " Cruzadas": 22271
+  },
+  "Otras Ap": {
+    " de Contrapartida": 326575
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 281980,
+  "P�quer Cash": "2368163",
+  "P�quer Torneo": "4121535",
+  "Black Jack": 2113018,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 713,
+  "Ruleta Convencional": 2978712,
+  "Ruleta en Vivo": 3915817,
+  "M�quinas de Azar": "11491505",
+  "Bingo": 1134438,
+  "Total": 59526161
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a5"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 13174760,
+        " en Directo": 17910848
+      }
+    },
+    " H�picas de Contrapartida": "533148",
+    " Deportivas Mutuas": 391,
+    " Cruzadas": 26706
+  },
+  "Otras Ap": {
+    " de Contrapartida": 226797
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 4398,
+  "P�quer Cash": "2509395",
+  "P�quer Torneo": "3813939",
+  "Black Jack": 2020051,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 313,
+  "Ruleta Convencional": 2613044,
+  "Ruleta en Vivo": 3928554,
+  "M�quinas de Azar": "11371632",
+  "Bingo": 1078075,
+  "Total": 59212051
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a6"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 14388557,
+        " en Directo": 19413424
+      }
+    },
+    " H�picas de Contrapartida": "511933",
+    " Deportivas Mutuas": 389,
+    " Cruzadas": 32754
+  },
+  "Otras Ap": {
+    " de Contrapartida": 308183
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 31902,
+  "P�quer Cash": "2584546",
+  "P�quer Torneo": "4630850",
+  "Black Jack": 1991849,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 698,
+  "Ruleta Convencional": 3016917,
+  "Ruleta en Vivo": 4072764,
+  "M�quinas de Azar": "11373308",
+  "Bingo": 930217,
+  "Total": 63288290
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a7"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 14563530,
+        " en Directo": 18697770
+      }
+    },
+    " H�picas de Contrapartida": "419862",
+    " Deportivas Mutuas": 392,
+    " Cruzadas": 31742
+  },
+  "Otras Ap": {
+    " de Contrapartida": 333617
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 33921,
+  "P�quer Cash": "2538217",
+  "P�quer Torneo": "4292563",
+  "Black Jack": 2227759,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 448,
+  "Ruleta Convencional": 2806550,
+  "Ruleta en Vivo": 3824554,
+  "M�quinas de Azar": "11731843",
+  "Bingo": 1056288,
+  "Total": 62559057
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a8"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 16652180,
+        " en Directo": 16538190
+      }
+    },
+    " H�picas de Contrapartida": "273624",
+    " Deportivas Mutuas": 556,
+    " Cruzadas": 29727
+  },
+  "Otras Ap": {
+    " de Contrapartida": 556066
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 66106,
+  "P�quer Cash": "2801522",
+  "P�quer Torneo": "4201995",
+  "Black Jack": 2187979,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 675,
+  "Ruleta Convencional": 2806426,
+  "Ruleta en Vivo": 4250691,
+  "M�quinas de Azar": "12082292",
+  "Bingo": 1253146,
+  "Total": 63701176
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4a9"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 14255800,
+        " en Directo": 17232816
+      }
+    },
+    " H�picas de Contrapartida": "345398",
+    " Deportivas Mutuas": 145,
+    " Cruzadas": 26175
+  },
+  "Otras Ap": {
+    " de Contrapartida": 242543
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 68842,
+  "P�quer Cash": "2600274",
+  "P�quer Torneo": "4438953",
+  "Black Jack": 2279282,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -646,
+  "Ruleta Convencional": 3196559,
+  "Ruleta en Vivo": 4651159,
+  "M�quinas de Azar": "12658475",
+  "Bingo": 1199935,
+  "Total": 63195710
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4aa"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 7217434,
+        " en Directo": 19611345
+      }
+    },
+    " H�picas de Contrapartida": "416397",
+    " Deportivas Mutuas": 210,
+    " Cruzadas": 30820
+  },
+  "Otras Ap": {
+    " de Contrapartida": 290193
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 865913,
+  "P�quer Cash": "2592738",
+  "P�quer Torneo": "5097882",
+  "Black Jack": 2149373,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 831,
+  "Ruleta Convencional": 3064094,
+  "Ruleta en Vivo": 4222165,
+  "M�quinas de Azar": "11834490",
+  "Bingo": 1116993,
+  "Total": 58510879
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4ab"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 20920413,
+        " en Directo": 20698361
+      }
+    },
+    " H�picas de Contrapartida": "206934",
+    " Deportivas Mutuas": 327,
+    " Cruzadas": 26815
+  },
+  "Otras Ap": {
+    " de Contrapartida": 332316
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 28468,
+  "P�quer Cash": "2387735",
+  "P�quer Torneo": "4411345",
+  "Black Jack": 2033997,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 1393,
+  "Ruleta Convencional": 2904916,
+  "Ruleta en Vivo": 4234459,
+  "M�quinas de Azar": "11672575",
+  "Bingo": 1003257,
+  "Total": 70863312
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4ac"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12778460,
+        " en Directo": 18646419
+      }
+    },
+    " H�picas de Contrapartida": "265896",
+    " Deportivas Mutuas": 957,
+    " Cruzadas": 25077
+  },
+  "Otras Ap": {
+    " de Contrapartida": 339913
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 45547,
+  "P�quer Cash": "2511297",
+  "P�quer Torneo": "4396121",
+  "Black Jack": 2173389,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 732,
+  "Ruleta Convencional": 3213060,
+  "Ruleta en Vivo": 5122237,
+  "M�quinas de Azar": "13821270",
+  "Bingo": 1094325,
+  "Total": 64434702
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4ad"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Abril",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 13369782,
+        " en Directo": 20191102
+      }
+    },
+    " H�picas de Contrapartida": "436151",
+    " Deportivas Mutuas": 393,
+    " Cruzadas": 24179
+  },
+  "Otras Ap": {
+    " de Contrapartida": 124167
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 34513,
+  "P�quer Cash": "2423443",
+  "P�quer Torneo": "3891359",
+  "Black Jack": 1830083,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -483,
+  "Ruleta Convencional": 2901021,
+  "Ruleta en Vivo": 4731996,
+  "M�quinas de Azar": "13206785",
+  "Bingo": 1045183,
+  "Total": 64209676
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4ae"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Mayo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 8098445,
+        " en Directo": 18718187
+      }
+    },
+    " H�picas de Contrapartida": "405310",
+    " Deportivas Mutuas": 379,
+    " Cruzadas": 11536
+  },
+  "Otras Ap": {
+    " de Contrapartida": 199825
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 410349,
+  "P�quer Cash": "2458752",
+  "P�quer Torneo": "4094053",
+  "Black Jack": 2081235,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 775,
+  "Ruleta Convencional": 2402514,
+  "Ruleta en Vivo": 4871940,
+  "M�quinas de Azar": "13226572",
+  "Bingo": 990390,
+  "Total": 57970260
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4af"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Junio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 5979471,
+        " en Directo": 17373618
+      }
+    },
+    " H�picas de Contrapartida": "588532",
+    " Deportivas Mutuas": 322,
+    " Cruzadas": 9984
+  },
+  "Otras Ap": {
+    " de Contrapartida": 500795
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 25244,
+  "P�quer Cash": "2446528",
+  "P�quer Torneo": "4041109",
+  "Black Jack": 2062331,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 754,
+  "Ruleta Convencional": 2986263,
+  "Ruleta en Vivo": 4884020,
+  "M�quinas de Azar": "13353443",
+  "Bingo": 989930,
+  "Total": 55242343
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b0"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Julio",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10364132,
+        " en Directo": 17416089
+      }
+    },
+    " H�picas de Contrapartida": "458707",
+    " Deportivas Mutuas": 105,
+    " Cruzadas": 9771
+  },
+  "Otras Ap": {
+    " de Contrapartida": 460897
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 403345,
+  "P�quer Cash": "2146614",
+  "P�quer Torneo": "4119260",
+  "Black Jack": 1632679,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -103,
+  "Ruleta Convencional": 2661741,
+  "Ruleta en Vivo": 4670233,
+  "M�quinas de Azar": "14343129",
+  "Bingo": 1043838,
+  "Total": 59730437
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b1"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Agosto",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 16116316,
+        " en Directo": 18395480
+      }
+    },
+    " H�picas de Contrapartida": "512348",
+    " Deportivas Mutuas": 1018,
+    " Cruzadas": 13434
+  },
+  "Otras Ap": {
+    " de Contrapartida": 424576
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 271481,
+  "P�quer Cash": "2269020",
+  "P�quer Torneo": "3885254",
+  "Black Jack": 1775070,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -339,
+  "Ruleta Convencional": 2837751,
+  "Ruleta en Vivo": 4741819,
+  "M�quinas de Azar": "10773371",
+  "Bingo": 1100962,
+  "Total": 63117559
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b2"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Septiembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 13652160,
+        " en Directo": 22051026
+      }
+    },
+    " H�picas de Contrapartida": "438280",
+    " Deportivas Mutuas": 1525,
+    " Cruzadas": 13490
+  },
+  "Otras Ap": {
+    " de Contrapartida": 440640
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 51597,
+  "P�quer Cash": "2545055",
+  "P�quer Torneo": "5512609",
+  "Black Jack": 1946992,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 630,
+  "Ruleta Convencional": 2467108,
+  "Ruleta en Vivo": 5429247,
+  "M�quinas de Azar": "13310342",
+  "Bingo": 1031231,
+  "Total": 68891932
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b3"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Octubre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10741181,
+        " en Directo": 18584632
+      }
+    },
+    " H�picas de Contrapartida": "357702",
+    " Deportivas Mutuas": -1670,
+    " Cruzadas": 15637
+  },
+  "Otras Ap": {
+    " de Contrapartida": 498635
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 177908,
+  "P�quer Cash": "2285344",
+  "P�quer Torneo": "4433720",
+  "Black Jack": 1742642,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 245,
+  "Ruleta Convencional": 2836666,
+  "Ruleta en Vivo": 4684535,
+  "M�quinas de Azar": "14113307",
+  "Bingo": 1060040,
+  "Total": 61530524
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b4"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Noviembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 9088719,
+        " en Directo": 18695015
+      }
+    },
+    " H�picas de Contrapartida": "293968",
+    " Deportivas Mutuas": -2893,
+    " Cruzadas": 16974
+  },
+  "Otras Ap": {
+    " de Contrapartida": 454291
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 404595,
+  "P�quer Cash": "2209045",
+  "P�quer Torneo": "4045137",
+  "Black Jack": 1736500,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 491,
+  "Ruleta Convencional": 2904341,
+  "Ruleta en Vivo": 5114793,
+  "M�quinas de Azar": "13159853",
+  "Bingo": 1064665,
+  "Total": 59185493
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b5"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Diciembre",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 12002709,
+        " en Directo": 18073539
+      }
+    },
+    " H�picas de Contrapartida": "425575",
+    " Deportivas Mutuas": -5011,
+    " Cruzadas": 16393
+  },
+  "Otras Ap": {
+    " de Contrapartida": 432499
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 25871,
+  "P�quer Cash": "2362158",
+  "P�quer Torneo": "4703767",
+  "Black Jack": 2049401,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 388,
+  "Ruleta Convencional": 3006584,
+  "Ruleta en Vivo": 6092112,
+  "M�quinas de Azar": "14217056",
+  "Bingo": 1154109,
+  "Total": 64557150
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b6"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Enero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 16893249,
+        " en Directo": 25660106
+      }
+    },
+    " H�picas de Contrapartida": "261858",
+    " Deportivas Mutuas": -2360,
+    " Cruzadas": 15989
+  },
+  "Otras Ap": {
+    " de Contrapartida": 442207
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 760966,
+  "P�quer Cash": "2281466",
+  "P�quer Torneo": "5225066",
+  "Black Jack": 1735459,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 433,
+  "Ruleta Convencional": 3302369,
+  "Ruleta en Vivo": 5719879,
+  "M�quinas de Azar": "14291998",
+  "Bingo": 1165589,
+  "Total": 77754275
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b7"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Febrero",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 18832318,
+        " en Directo": 20741926
+      }
+    },
+    " H�picas de Contrapartida": "298845",
+    " Deportivas Mutuas": -2593,
+    " Cruzadas": 16711
+  },
+  "Otras Ap": {
+    " de Contrapartida": 329774
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 464656,
+  "P�quer Cash": "2169324",
+  "P�quer Torneo": "4351519",
+  "Black Jack": 1803848,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": -642,
+  "Ruleta Convencional": 3205762,
+  "Ruleta en Vivo": 5837405,
+  "M�quinas de Azar": "13598040",
+  "Bingo": 1022006,
+  "Total": 72668900
+},{
+  "_id": {
+    "$oid": "5f6585ade7e27b07204ea4b8"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Marzo",
+  "Ap": {
+    " Dep": {
+      " de Contrap": {
+        " Convencionales": 10565591,
+        " en Directo": 14913527
+      }
+    },
+    " H�picas de Contrapartida": "570230",
+    " Deportivas Mutuas": 1388,
+    " Cruzadas": 9740
+  },
+  "Otras Ap": {
+    " de Contrapartida": 1069254
+  },
+  "Apuestas H�picas Mutuas": "0",
+  "Concursos": 649547,
+  "P�quer Cash": "3634646",
+  "P�quer Torneo": "6538144",
+  "Black Jack": 1730090,
+  "Juegos Complementarios": 0,
+  "Punto y Banca": 822,
+  "Ruleta Convencional": 4203986,
+  "Ruleta en Vivo": 6858112,
+  "M�quinas de Azar": "15300473",
+  "Bingo": 1499198,
+  "Total": 67544750
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4b9"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ba"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4bb"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4bc"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4bd"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4be"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4bf"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c0"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c1"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c2"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c3"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c4"
+  },
+  "A�o": "2013",
+  "Trimestre": "2013.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c5"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c6"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c7"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c8"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4c9"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ca"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4cb"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4cc"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4cd"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ce"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4cf"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d0"
+  },
+  "A�o": "2014",
+  "Trimestre": "2014.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d1"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d2"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d3"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d4"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d5"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d6"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d7"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d8"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4d9"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4da"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4db"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4dc"
+  },
+  "A�o": "2015",
+  "Trimestre": "2015.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4dd"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4de"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4df"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e0"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e1"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e2"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e3"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e4"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e5"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e6"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e7"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e8"
+  },
+  "A�o": "2016",
+  "Trimestre": "2016.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4e9"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ea"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4eb"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ec"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ed"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ee"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ef"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f0"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f1"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f2"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f3"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f4"
+  },
+  "A�o": "2017",
+  "Trimestre": "2017.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f5"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f6"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f7"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f8"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4f9"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4fa"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4fb"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4fc"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4fd"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4fe"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea4ff"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea500"
+  },
+  "A�o": "2018",
+  "Trimestre": "2018.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea501"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea502"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea503"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T1",
+  "Mes": "Marzo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea504"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Abril"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea505"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Mayo"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea506"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T2",
+  "Mes": "Junio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea507"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Julio"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea508"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Agosto"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea509"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T3",
+  "Mes": "Septiembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50a"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Octubre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50b"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Noviembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50c"
+  },
+  "A�o": "2019",
+  "Trimestre": "2019.T4",
+  "Mes": "Diciembre"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50d"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Enero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50e"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Febrero"
+},{
+  "_id": {
+    "$oid": "5f6585f0e7e27b07204ea50f"
+  },
+  "A�o": "2020",
+  "Trimestre": "2020.T1",
+  "Mes": "Marzo"
+}]
