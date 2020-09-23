@@ -1,0 +1,39 @@
+{
+  "mappings": {
+    "properties":{
+      "doc":{
+        "properties": {
+          "created_at": {
+            "type": "date",
+            "format": "EE MMM d HH:mm:ss Z yyyy||dd/MM/yyyy||dd-MM-yyyy||date_optional_time"
+          },
+          "location": {
+            "type": "geo_point"
+          },
+          "geo": {
+           "type": "geo_point"
+          },
+          "coordinates": {
+           "type": "geo_point"
+          },
+          "place": {
+           "properties": {
+            "coordinates":{
+              "type":"geo_point"
+            }
+           }
+          },
+          "message": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
