@@ -17,7 +17,7 @@ Data Lake
 - [Procesar CSV grande en partes y generar visualizaciones](sql/politica.ipynb)
 
 **NOSQL**
-- [Migrar de mongodb a couchdv](mongo2couch2.py)
+- [Migrar de mongodb a couchdb](mongo2couch2.py)
 - [Proyecto scrapy politico - spiders](politico/politico/spiders/politico_spiders.py)
 
 ### Creación de índices
