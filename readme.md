@@ -17,15 +17,15 @@ Data Lake
 - [Procesar CSV grande en partes y generar visualizaciones](sql/politica.ipynb)
 
 **NOSQL**
-- [Migrar de mongodb a couchdv](nosql/mongo2couch2.py)
-- [Proyecto scrapy politico - spiders](nosql/politico/politico/spiders/politico_spiders.py)
+- [Migrar de mongodb a couchdv](mongo2couch2.py)
+- [Proyecto scrapy politico - spiders](politico/politico/spiders/politico_spiders.py)
 
 ### Creación de índices
-- [Creacion de mapping a elasticsearch](nosql/config/mapping.json)
+- [Creacion de mapping a elasticsearch](config/mapping.json)
 
 ### Logstash
 - [Migracion de datos a traves de logstash](nosql/config/couchdb.conf)
 
 ### Data Final
 
--[Se logro recolectar un total de 2 423 014 datos ](nosql/Documents/data.txt)
+- [Se logro recolectar un total de 2 423 014 datos ](Documents/data.txt)
