@@ -17,12 +17,11 @@ Data Lake
 - [Procesar CSV grande en partes y generar visualizaciones](sql/politica.ipynb)
 
 **NOSQL**
-
-### MapReduce
+- [Migrar de mongodb a couchdv] (nosql/mongo2couch2.py)
+- [Proyecto scrapy politico - spiders] (nosql/politico/politico/spiders/politico_spiders.py)
 
 ### Creación de índices
-
-### Creación de Mapping
+- [Creacion de mapping a elasticsearch] (nosql/config/mapping.json)
 
 ### Logstash
-
+- [Migracion de datos a traves de logstash] (nosql/config/couchdb.conf)
