@@ -25,3 +25,7 @@ Data Lake
 
 ### Logstash
 - [Migracion de datos a traves de logstash](nosql/config/couchdb.conf)
+
+### Data Final
+
+-[Se logro recolectar un total de 2 423 014 datos ](nosql/Documents/data.txt)
