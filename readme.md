@@ -24,7 +24,7 @@ Data Lake
 - [Creacion de mapping a elasticsearch](config/mapping.json)
 
 ### Logstash
-- [Migracion de datos a traves de logstash](nosql/config/couchdb.conf)
+- [Migracion de datos a traves de logstash](config/couchdb.conf)
 
 ### Data Final
 
